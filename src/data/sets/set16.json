@@ -1,0 +1,208 @@
+{
+  "id": "set16",
+  "title": "Symbols of Canada",
+  "subtitle": "The Crown, the flag, the maple leaf, the coat of arms, Parliament, the beaver and national sports",
+  "topics": ["Flag", "Maple leaf", "Coat of arms", "Hockey", "Beaver"],
+  "questions": [
+    {
+      "id": "s16q01",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "For how long has the Crown been a symbol of the state in Canada?",
+      "options": ["100 years", "150 years", "400 years", "800 years"],
+      "answer": 2,
+      "explanation": "The Crown has been a symbol of the state in Canada for 400 years. Canada has been a constitutional monarchy in its own right since Confederation in 1867, during Queen Victoria's reign.",
+      "ref": "Discover Canada, The Canadian Crown (p. 38)"
+    },
+    {
+      "id": "s16q02",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "In what year was the current Canadian flag raised for the first time?",
+      "options": ["1867", "1921", "1965", "1982"],
+      "answer": 2,
+      "explanation": "A new Canadian flag was raised for the first time in 1965. The red-white-red pattern comes from the flag of the Royal Military College, Kingston, founded in 1876.",
+      "ref": "Discover Canada, Flags in Canada (p. 38)"
+    },
+    {
+      "id": "s16q03",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Which king assigned Canada's national colours, white and red, in 1921?",
+      "options": ["King George III", "King George V", "King Edward VII", "King Charles II"],
+      "answer": 1,
+      "explanation": "King George V assigned Canada's national colours, white and red, in 1921. They are the colours of our national flag today, and had been colours of France and England since the Middle Ages.",
+      "ref": "Discover Canada, Confederation (p. 18) and Flags in Canada (p. 38)"
+    },
+    {
+      "id": "s16q04",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is Canada's official Royal Flag?",
+      "options": ["The Red Ensign", "The Union Jack", "The fleur-de-lys", "The Maple Leaf flag"],
+      "answer": 1,
+      "explanation": "The Union Jack is our official Royal Flag. The Canadian Red Ensign served as the Canadian flag for about 100 years and has been carried officially by veterans since 2005.",
+      "ref": "Discover Canada, Flags in Canada (p. 38)"
+    },
+    {
+      "id": "s16q05",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Which flag served as Canada's national flag for about 100 years before 1965?",
+      "options": ["The Union Jack", "The Canadian Red Ensign", "The Hudson's Bay Company flag", "The Quebec flag"],
+      "answer": 1,
+      "explanation": "The Canadian Red Ensign served as the Canadian flag for about 100 years.",
+      "ref": "Discover Canada, Flags in Canada (p. 38)"
+    },
+    {
+      "id": "s16q06",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is Canada's best-known symbol?",
+      "options": ["The beaver", "The maple leaf", "The Mountie", "The loon"],
+      "answer": 1,
+      "explanation": "The maple leaf is Canada's best-known symbol. Maple leaves were adopted by French Canadians in the 1700s, have appeared on uniforms since the 1850s, and are carved into the headstones of fallen soldiers.",
+      "ref": "Discover Canada, The Maple Leaf (p. 38)"
+    },
+    {
+      "id": "s16q07",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "The fleur-de-lys was the symbol of French royalty. In what year did Quebec adopt its own flag based on the Cross and the fleur-de-lys?",
+      "options": ["1867", "1921", "1948", "1965"],
+      "answer": 2,
+      "explanation": "The lily flower (fleur-de-lys) was adopted by the French king in 496 and symbolized French royalty for over 1,000 years. In 1948 Quebec adopted its own flag based on the Cross and the fleur-de-lys.",
+      "ref": "Discover Canada, The Fleur-de-lys (p. 38)"
+    },
+    {
+      "id": "s16q08",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is Canada's national motto, and what does it mean?",
+      "options": ["\"E pluribus unum\" – out of many, one", "\"A mari usque ad mare\" – from sea to sea", "\"Je me souviens\" – I remember", "\"Dieu et mon droit\" – God and my right"],
+      "answer": 1,
+      "explanation": "After the First World War Canada adopted an official coat of arms and a national motto, A mari usque ad mare, which in Latin means \"from sea to sea.\"",
+      "ref": "Discover Canada, Coat of Arms and Motto (p. 38)"
+    },
+    {
+      "id": "s16q09",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "The Canadian coat of arms contains symbols of which countries, along with red maple leaves?",
+      "options": ["England, France, Scotland and Ireland", "England, France, Spain and Portugal", "Britain, the United States and France", "England, Wales, France and Germany"],
+      "answer": 0,
+      "explanation": "The arms contain symbols of England, France, Scotland and Ireland as well as red maple leaves. They appear on dollar bills, government documents and public buildings.",
+      "ref": "Discover Canada, Coat of Arms and Motto (p. 38)"
+    },
+    {
+      "id": "s16q10",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "The Centre Block of the Parliament Buildings was destroyed by fire in 1916. Which part of the original building remains?",
+      "options": ["The Peace Tower", "The Library", "The Senate chamber", "The East Block"],
+      "answer": 1,
+      "explanation": "The Centre Block was destroyed by an accidental fire in 1916 and rebuilt in 1922. The Library is the only part of the original building remaining.",
+      "ref": "Discover Canada, Parliament Buildings (p. 39)"
+    },
+    {
+      "id": "s16q11",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "The Peace Tower, completed in 1927, was built in memory of what?",
+      "options": ["Confederation", "The First World War", "The War of 1812", "The Second World War"],
+      "answer": 1,
+      "explanation": "The Peace Tower was completed in 1927 in memory of the First World War. Its Memorial Chamber contains the Books of Remembrance with the names of those who died serving Canada.",
+      "ref": "Discover Canada, Parliament Buildings (p. 39)"
+    },
+    {
+      "id": "s16q12",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is Canada's national winter sport?",
+      "options": ["Curling", "Ice hockey", "Skiing", "Lacrosse"],
+      "answer": 1,
+      "explanation": "Hockey is Canada's most popular spectator sport and is considered the national winter sport. Ice hockey was developed in Canada in the 1800s. Lacrosse is the official summer sport.",
+      "ref": "Discover Canada, Popular Sports (p. 39)"
+    },
+    {
+      "id": "s16q13",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is Canada's official summer sport?",
+      "options": ["Baseball", "Soccer", "Lacrosse", "Canadian football"],
+      "answer": 2,
+      "explanation": "Lacrosse, an ancient sport first played by Aboriginals, is the official summer sport. Soccer has the most registered players of any game in Canada.",
+      "ref": "Discover Canada, Popular Sports (p. 39)"
+    },
+    {
+      "id": "s16q14",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Who donated the Stanley Cup, and in what year?",
+      "options": ["Lord Grey, 1909", "Lord Stanley, the Governor General, in 1892", "Adrienne Clarkson, 2005", "Lord Strathcona, 1885"],
+      "answer": 1,
+      "explanation": "The National Hockey League plays for the Stanley Cup, donated by Lord Stanley, the Governor General, in 1892. The Grey Cup (Canadian football) was donated by Lord Grey in 1909, and the Clarkson Cup (women's hockey) by Adrienne Clarkson in 2005.",
+      "ref": "Discover Canada, Popular Sports (p. 39)"
+    },
+    {
+      "id": "s16q15",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Which trophy do Canadian Football League teams compete for?",
+      "options": ["The Stanley Cup", "The Grey Cup", "The Clarkson Cup", "The Vanier Cup"],
+      "answer": 1,
+      "explanation": "Professional teams in the Canadian Football League compete for the Grey Cup, donated by Lord Grey, the Governor General, in 1909. Canadian football is the second most popular sport.",
+      "ref": "Discover Canada, Modern Canada (p. 26) and Popular Sports (p. 39)"
+    },
+    {
+      "id": "s16q16",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "The beaver was adopted centuries ago as a symbol of which company?",
+      "options": ["The Canadian Pacific Railway", "The Hudson's Bay Company", "The North West Company", "The Bank of Montreal"],
+      "answer": 1,
+      "explanation": "The beaver was adopted centuries ago as a symbol of the Hudson's Bay Company, and in 1834 became an emblem of the St. Jean Baptiste Society. It appears on the five-cent coin and on the arms of Saskatchewan, Alberta, Montreal and Toronto.",
+      "ref": "Discover Canada, The Beaver (p. 39)"
+    },
+    {
+      "id": "s16q17",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "On which Canadian coin does the beaver appear?",
+      "options": ["The one-cent coin", "The five-cent coin", "The ten-cent coin", "The one-dollar coin"],
+      "answer": 1,
+      "explanation": "This industrious rodent can be seen on the five-cent coin (the nickel).",
+      "ref": "Discover Canada, The Beaver (p. 39)"
+    },
+    {
+      "id": "s16q18",
+      "type": "tf",
+      "category": "Canadian Symbols",
+      "question": "True or false: Curling was introduced to Canada by Scottish pioneers.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Curling, an ice game introduced by Scottish pioneers, is popular in Canada.",
+      "ref": "Discover Canada, Popular Sports (p. 39)"
+    },
+    {
+      "id": "s16q19",
+      "type": "tf",
+      "category": "Canadian Symbols",
+      "question": "True or false: Soccer has the most registered players of any game in Canada.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Although hockey is the most popular spectator sport, soccer has the most registered players of any game in Canada.",
+      "ref": "Discover Canada, Popular Sports (p. 39)"
+    },
+    {
+      "id": "s16q20",
+      "type": "tf",
+      "category": "Canadian Symbols",
+      "question": "True or false: The Parliament Buildings embody French, English and Aboriginal traditions and the Gothic Revival architecture popular in Queen Victoria's time.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The towers, arches, sculptures and stained glass of the Parliament Buildings embody the French, English and Aboriginal traditions and Gothic Revival architecture. The buildings were completed in the 1860s.",
+      "ref": "Discover Canada, Parliament Buildings (p. 39)"
+    }
+  ]
+}

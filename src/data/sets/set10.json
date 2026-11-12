@@ -1,0 +1,208 @@
+{
+  "id": "set10",
+  "title": "Arts, Sports & Inventions",
+  "subtitle": "The Group of Seven, hockey heroes, Terry Fox and great Canadian discoveries",
+  "topics": ["Group of Seven", "Hockey", "Terry Fox", "Insulin", "Inventors"],
+  "questions": [
+    {
+      "id": "s10q01",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "The Group of Seven, founded in 1920, is famous for what?",
+      "options": ["Inventing the snowmobile", "A style of painting capturing the rugged wilderness landscapes", "Writing the national anthem", "Founding the Canadian Football League"],
+      "answer": 1,
+      "explanation": "In the visual arts Canada is perhaps best known for the Group of Seven, founded in 1920, who developed a style of painting to capture the rugged wilderness landscapes.",
+      "ref": "Discover Canada, Arts and Culture in Canada (p. 25)"
+    },
+    {
+      "id": "s10q02",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Which artist painted the forests and Aboriginal artifacts of the West Coast?",
+      "options": ["Tom Thomson", "Emily Carr", "Jean-Paul Riopelle", "Kenojuak Ashevak"],
+      "answer": 1,
+      "explanation": "Emily Carr painted the forests and Aboriginal artifacts of the West Coast. Jean-Paul Riopelle was a pioneer of modern abstract art, and Kenojuak Ashevak pioneered modern Inuit art.",
+      "ref": "Discover Canada, Arts and Culture in Canada (p. 25)"
+    },
+    {
+      "id": "s10q03",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who pioneered modern Inuit art with etchings, prints and soapstone sculptures?",
+      "options": ["Emily Carr", "Louis-Philippe Hébert", "Kenojuak Ashevak", "Bill Reid"],
+      "answer": 2,
+      "explanation": "Kenojuak Ashevak pioneered modern Inuit art with etchings, prints and soapstone sculptures.",
+      "ref": "Discover Canada, Arts and Culture in Canada (p. 25)"
+    },
+    {
+      "id": "s10q04",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Which of these is a noteworthy Canadian filmmaker named in the guide?",
+      "options": ["Denys Arcand", "Steven Spielberg", "Alfred Hitchcock", "Pierre Berton"],
+      "answer": 0,
+      "explanation": "The films of Denys Arcand have been popular in Quebec and across the country and have won international awards. Other noteworthy Canadian filmmakers include Norman Jewison and Atom Egoyan.",
+      "ref": "Discover Canada, Arts and Culture in Canada (p. 25)"
+    },
+    {
+      "id": "s10q05",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who invented basketball, and in what year?",
+      "options": ["James Naismith, 1891", "Lord Stanley, 1892", "Sandford Fleming, 1878", "Wayne Gretzky, 1979"],
+      "answer": 0,
+      "explanation": "Basketball was invented by Canadian James Naismith in 1891.",
+      "ref": "Discover Canada, Modern Canada (p. 26)"
+    },
+    {
+      "id": "s10q06",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who became a world record sprinter and double Olympic gold medallist at the 1996 Summer Games?",
+      "options": ["Terry Fox", "Donovan Bailey", "Rick Hansen", "Paul Henderson"],
+      "answer": 1,
+      "explanation": "In 1996 at the Olympic Summer Games, Donovan Bailey became a world record sprinter and double Olympic gold medallist.",
+      "ref": "Discover Canada, Modern Canada (p. 26)"
+    },
+    {
+      "id": "s10q07",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "What was Terry Fox's \"Marathon of Hope\"?",
+      "options": ["A wheelchair trip around the globe for spinal cord research", "A cross-country run begun in 1980 to raise money for cancer research", "A hockey tournament for charity", "A climb of Mount Logan"],
+      "answer": 1,
+      "explanation": "In 1980 Terry Fox, a British Columbian who lost his right leg to cancer at 18, began a cross-country run, the Marathon of Hope, to raise money for cancer research. He did not finish and later died of cancer, but yearly fundraising events continue in his name.",
+      "ref": "Discover Canada, Modern Canada (p. 26)"
+    },
+    {
+      "id": "s10q08",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "In 1985, which British Columbian circled the globe in a wheelchair to raise funds for spinal cord research?",
+      "options": ["Terry Fox", "Rick Hansen", "Chantal Petitclerc", "Mark Tewksbury"],
+      "answer": 1,
+      "explanation": "In 1985 Rick Hansen circled the globe in a wheelchair to raise funds for spinal cord research. Chantal Petitclerc became a world champion wheelchair racer and Paralympic gold medallist.",
+      "ref": "Discover Canada, Modern Canada (p. 26)"
+    },
+    {
+      "id": "s10q09",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Wayne Gretzky, one of the greatest hockey players of all time, played for which team from 1979 to 1988?",
+      "options": ["Montreal Canadiens", "Toronto Maple Leafs", "Edmonton Oilers", "Vancouver Canucks"],
+      "answer": 2,
+      "explanation": "Wayne Gretzky played for the Edmonton Oilers from 1979 to 1988.",
+      "ref": "Discover Canada, Modern Canada (p. 26)"
+    },
+    {
+      "id": "s10q10",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "In 1972, who scored the winning goal for Canada in the Canada–Soviet Summit Series, \"the goal heard around the world\"?",
+      "options": ["Wayne Gretzky", "Paul Henderson", "Mark Tewksbury", "Donovan Bailey"],
+      "answer": 1,
+      "explanation": "In 1972 Paul Henderson scored the winning goal in the Canada–Soviet Summit Series, remembered as an important event in both sports and cultural history.",
+      "ref": "Discover Canada, Modern Canada (p. 26)"
+    },
+    {
+      "id": "s10q11",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "What is the significance of the discovery of insulin by Sir Frederick Banting and Charles Best?",
+      "options": ["It cured polio", "It is a hormone to treat diabetes that has saved 16 million lives worldwide", "It allowed the first heart transplant", "It led to the invention of the pacemaker"],
+      "answer": 1,
+      "explanation": "Sir Frederick Banting of Toronto and Charles Best discovered insulin, a hormone to treat diabetes that has saved 16 million lives worldwide.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q12",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who invented the worldwide system of standard time zones?",
+      "options": ["Alexander Graham Bell", "Sir Sandford Fleming", "Reginald Fessenden", "Joseph-Armand Bombardier"],
+      "answer": 1,
+      "explanation": "Sir Sandford Fleming invented the worldwide system of standard time zones.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q13",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who invented the snowmobile?",
+      "options": ["Joseph-Armand Bombardier", "John A. Hopps", "Mike Lazaridis", "Wilder Penfield"],
+      "answer": 0,
+      "explanation": "Joseph-Armand Bombardier invented the snowmobile, a light-weight winter vehicle.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q14",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who invented the first cardiac pacemaker?",
+      "options": ["Dr. Wilder Penfield", "Dr. John A. Hopps", "Sir Frederick Banting", "Dr. Norman Bethune"],
+      "answer": 1,
+      "explanation": "Dr. John A. Hopps invented the first cardiac pacemaker, used today to save the lives of people with heart disorders. Dr. Wilder Penfield was a pioneering brain surgeon known as \"the greatest living Canadian.\"",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q15",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "What is the Canadarm?",
+      "options": ["A prosthetic limb invented in Toronto", "A robotic arm used in outer space, invented by SPAR Aerospace and the National Research Council", "A hockey trophy", "A type of snowmobile"],
+      "answer": 1,
+      "explanation": "SPAR Aerospace and the National Research Council invented the Canadarm, a robotic arm used in outer space. Since 1989 the Canadian Space Agency and Canadian astronauts have taken part in space exploration.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q16",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Mike Lazaridis and Jim Balsillie of Research in Motion (RIM) are known for which invention?",
+      "options": ["The telephone", "The BlackBerry", "The light bulb", "The radio"],
+      "answer": 1,
+      "explanation": "Mike Lazaridis and Jim Balsillie of Research in Motion, a wireless communications company, are known for its most famous invention: the BlackBerry.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q17",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who sent the first wireless voice message in the world, contributing to the invention of radio?",
+      "options": ["Alexander Graham Bell", "Reginald Fessenden", "Matthew Evans", "Marshall McLuhan"],
+      "answer": 1,
+      "explanation": "Reginald Fessenden contributed to the invention of radio, sending the first wireless voice message in the world.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q18",
+      "type": "tf",
+      "category": "Modern Canada",
+      "question": "True or false: Alexander Graham Bell hit on the idea of the telephone at his summer house in Canada.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Alexander Graham Bell hit on the idea of the telephone at his summer house in Canada.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q19",
+      "type": "tf",
+      "category": "Modern Canada",
+      "question": "True or false: Matthew Evans and Henry Woodward invented the first electric light bulb and later sold the patent to Thomas Edison.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Evans and Woodward together invented the first electric light bulb and later sold the patent to Thomas Edison, who more famously commercialized it.",
+      "ref": "Discover Canada, Great Canadian Discoveries and Inventions (p. 27)"
+    },
+    {
+      "id": "s10q20",
+      "type": "tf",
+      "category": "Modern Canada",
+      "question": "True or false: Mordecai Richler, Margaret Laurence and Stephen Leacock are among the Canadian writers named in the guide.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The guide lists men and women of letters including Stephen Leacock, Louis Hémon, Sir Charles G.D. Roberts, Pauline Johnson, Émile Nelligan, Robertson Davies, Margaret Laurence and Mordecai Richler.",
+      "ref": "Discover Canada, Arts and Culture in Canada (p. 25)"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "set14",
+  "title": "After the Votes Are Counted",
+  "subtitle": "Forming a government, majority vs minority, the Opposition, and municipal and First Nations government",
+  "topics": ["Cabinet", "Opposition", "Parties", "Municipal", "Band councils"],
+  "questions": [
+    {
+      "id": "s14q01",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "After an election, which party forms the government?",
+      "options": ["The party with the most votes nationwide", "The party whose leader is invited by the Governor General to form the government, ordinarily the party with the most seats in the House of Commons", "The party chosen by the Senate", "The party that won the previous election"],
+      "answer": 1,
+      "explanation": "Ordinarily, after an election, the leader of the political party with the most seats in the House of Commons is invited by the Governor General to form the government. That leader becomes the Prime Minister.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q02",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "What is a majority government?",
+      "options": ["When the party in power holds at least half of the seats in the House of Commons", "When the party in power wins more than half the popular vote", "When two parties share power", "When the Senate and House agree"],
+      "answer": 0,
+      "explanation": "If the party in power holds at least half of the seats in the House of Commons, this is called a majority government. If it holds less than half, it is a minority government.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q03",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "What is a minority government?",
+      "options": ["A government led by a minority ethnic group", "When the party in power holds less than half of the seats in the House of Commons", "A government with fewer than ten ministers", "A government formed by the Senate"],
+      "answer": 1,
+      "explanation": "If the party in power holds less than half of the seats in the House of Commons, this is called a minority government.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q04",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "When the House of Commons votes on the budget, what kind of vote is it considered?",
+      "options": ["A free vote", "A matter of confidence", "A ceremonial vote", "A Senate vote"],
+      "answer": 1,
+      "explanation": "When the House votes on a major issue such as the budget, this is considered a matter of confidence. If a majority votes against a major government decision, the party in power is defeated, which usually leads to the Prime Minister asking the Governor General to call an election.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q05",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "What usually happens if a majority of MPs vote against a major government decision?",
+      "options": ["The Senate takes over", "The Prime Minister asks the Governor General, on behalf of the Sovereign, to call an election", "The Supreme Court decides", "Nothing; the government continues"],
+      "answer": 1,
+      "explanation": "If the party in power is defeated on a confidence matter, this usually results in the Prime Minister asking the Governor General, on behalf of the Sovereign, to call an election.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q06",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "Who are the Cabinet, and what do they do?",
+      "options": ["Senators who review bills", "The Prime Minister and the Cabinet ministers, who run federal departments, prepare the budget and propose most new laws", "Judges of the Supreme Court", "Provincial premiers"],
+      "answer": 1,
+      "explanation": "The Prime Minister chooses the ministers of the Crown, mostly from the House of Commons. Cabinet ministers run the federal departments. Together they are called the Cabinet, prepare the budget and propose most new laws.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q07",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "What is the Official Opposition, also called His Majesty's Loyal Opposition?",
+      "options": ["The party that lost the previous election", "The opposition party with the most members in the House of Commons", "A group of senators", "Independent MPs"],
+      "answer": 1,
+      "explanation": "The opposition party with the most members of the House of Commons is the Official Opposition or His (formerly Her) Majesty's Loyal Opposition. The role of opposition parties is to peacefully oppose or try to improve government proposals.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q08",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "What is the role of opposition parties?",
+      "options": ["To run the civil service", "To peacefully oppose or try to improve government proposals", "To appoint senators", "To count ballots"],
+      "answer": 1,
+      "explanation": "The role of opposition parties is to peacefully oppose or try to improve government proposals.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q09",
+      "type": "mc",
+      "category": "Federal Elections",
+      "question": "Which three major political parties did the guide list as represented in the House of Commons?",
+      "options": ["Conservative, New Democratic and Liberal", "Republican, Democratic and Green", "Bloc Québécois, Reform and Social Credit", "Labour, Tory and Liberal Democrat"],
+      "answer": 0,
+      "explanation": "The guide names the Conservative Party, the New Democratic Party and the Liberal Party. Other parties such as the Bloc Québécois and the Green Party have also held seats; check the current House for today's line-up.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q10",
+      "type": "mc",
+      "category": "Government",
+      "question": "What are laws passed by municipal councils called?",
+      "options": ["Statutes", "By-laws", "Acts", "Regulations"],
+      "answer": 1,
+      "explanation": "Municipal governments usually have a council that passes laws called by-laws that affect only the local community.",
+      "ref": "Discover Canada, Other Levels of Government (p. 33)"
+    },
+    {
+      "id": "s14q11",
+      "type": "mc",
+      "category": "Government",
+      "question": "Who usually leads a municipal council?",
+      "options": ["A Lieutenant Governor", "A mayor (or a reeve), with councillors or aldermen", "A premier", "A commissioner"],
+      "answer": 1,
+      "explanation": "The council usually includes a mayor (or a reeve) and councillors or aldermen.",
+      "ref": "Discover Canada, Other Levels of Government (p. 33)"
+    },
+    {
+      "id": "s14q12",
+      "type": "mc",
+      "category": "Government",
+      "question": "Which of the following is normally a municipal responsibility?",
+      "options": ["National defence", "Snow removal, garbage removal, firefighting, public transit and recreation facilities", "Criminal law", "Issuing passports"],
+      "answer": 1,
+      "explanation": "Municipalities are normally responsible for urban planning, streets and roads, sanitation, snow removal, firefighting, ambulance and emergency services, recreation facilities, public transit and some local health and social services.",
+      "ref": "Discover Canada, Other Levels of Government (p. 33)"
+    },
+    {
+      "id": "s14q13",
+      "type": "mc",
+      "category": "Government",
+      "question": "On First Nations reserves, who has major responsibilities for housing, schools and other services?",
+      "options": ["The Lieutenant Governor", "Band chiefs and councillors", "The RCMP", "The Senate"],
+      "answer": 1,
+      "explanation": "The First Nations have band chiefs and councillors who have major responsibilities on reserves, including housing, schools and other services. Aboriginal organizations also speak for First Nations, Métis and Inuit people.",
+      "ref": "Discover Canada, Other Levels of Government (p. 33)"
+    },
+    {
+      "id": "s14q14",
+      "type": "mc",
+      "category": "Government",
+      "question": "What are the three levels of government?",
+      "options": ["Executive, legislative, judicial", "Federal, provincial or territorial, and municipal (local)", "Sovereign, Senate, Commons", "Imperial, national, local"],
+      "answer": 1,
+      "explanation": "The three levels of government are federal, provincial/territorial and municipal (local). Each has elected officials and its own responsibilities.",
+      "ref": "Discover Canada, Other Levels of Government table (p. 33)"
+    },
+    {
+      "id": "s14q15",
+      "type": "mc",
+      "category": "Government",
+      "question": "In the responsibilities table, policing appears at which levels of government?",
+      "options": ["Federal only", "Provincial only", "Federal, provincial (Ontario and Quebec) and municipal", "Municipal only"],
+      "answer": 2,
+      "explanation": "Policing is listed for the federal level (RCMP), provincial level in Ontario and Quebec (provincial police forces), and the municipal level (most major urban centres have municipal police forces).",
+      "ref": "Discover Canada, Other Levels of Government table (p. 33)"
+    },
+    {
+      "id": "s14q16",
+      "type": "tf",
+      "category": "Federal Elections",
+      "question": "True or false: Cabinet decisions can be questioned by all members of the House of Commons.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The Cabinet makes important decisions about how the country is governed, and their decisions can be questioned by all members of the House of Commons.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q17",
+      "type": "tf",
+      "category": "Federal Elections",
+      "question": "True or false: The Prime Minister and the party in power run the government only as long as they have the confidence of the majority of MPs.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The Prime Minister and the party in power run the government as long as they have the support or confidence of the majority of the MPs.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q18",
+      "type": "tf",
+      "category": "Government",
+      "question": "True or false: Most Cabinet ministers are chosen from among members of the House of Commons.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The Prime Minister chooses the ministers of the Crown, most of them from among members of the House of Commons.",
+      "ref": "Discover Canada, After an Election (p. 31)"
+    },
+    {
+      "id": "s14q19",
+      "type": "mc",
+      "category": "Government",
+      "question": "Who is your member of Parliament?",
+      "options": ["The Premier of your province", "The person elected to represent your electoral district (riding) in the House of Commons in Ottawa", "The mayor of your city", "The Senator for your province"],
+      "answer": 1,
+      "explanation": "Your MP is the person elected by the citizens of your electoral district to sit in the House of Commons in Ottawa. The guide suggests you learn the name of your own MP and your riding before the test.",
+      "ref": "Discover Canada, Study Questions (p. 52) and How Much Do You Know (p. 34)"
+    },
+    {
+      "id": "s14q20",
+      "type": "mc",
+      "category": "Government",
+      "question": "What does the guide recommend you learn about your own government before the test?",
+      "options": ["Nothing beyond the guide's text", "The names of the Governor General, Prime Minister, your MP, your riding, your Lieutenant Governor, Premier, provincial representative and mayor", "Only the name of the Prime Minister", "The names of all Senators"],
+      "answer": 1,
+      "explanation": "The guide includes a worksheet asking you to fill in the Head of State, Governor General, Prime Minister, party in power, Leader of the Opposition, your MP and electoral district, your Lieutenant Governor, Premier, provincial representative, and your municipality and mayor or reeve. Test questions may cover these.",
+      "ref": "Discover Canada, How Much Do You Know About Your Government (p. 34-35)"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "set02",
+  "title": "Duties of a Citizen",
+  "subtitle": "Responsibilities, defending Canada, equality, and who we are",
+  "topics": ["Responsibilities", "Jury duty", "Identity"],
+  "questions": [
+    {
+      "id": "s02q01",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "What are three responsibilities of citizenship?",
+      "options": ["Being loyal to Canada, recycling newspapers, serving in the navy, army or air force", "Obeying the law, taking responsibility for oneself and one's family, serving on a jury", "Learning both official languages, voting in elections, belonging to a union", "Buying Canadian products, owning your own business, using less water"],
+      "answer": 1,
+      "explanation": "This is one of the sample questions printed in the guide. Responsibilities include obeying the law, taking responsibility for oneself and one's family, serving on a jury, voting in elections, helping others in the community, and protecting our heritage and environment.",
+      "ref": "Discover Canada, Study Questions (p. 52)"
+    },
+    {
+      "id": "s02q02",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Which principle means that no person or group is above the law and that governments are regulated by laws, not arbitrary actions?",
+      "options": ["Responsible government", "The rule of law", "Habeas corpus", "Federalism"],
+      "answer": 1,
+      "explanation": "One of Canada's founding principles is the rule of law. Individuals and governments are regulated by laws and not by arbitrary actions, and no person or group is above the law.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    },
+    {
+      "id": "s02q03",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "When you are called to serve on a jury, what are you required to do?",
+      "options": ["You may decline if you are busy", "You are legally required to serve", "You must pay a fee to be excused", "You only serve if you are a lawyer"],
+      "answer": 1,
+      "explanation": "When called to do so, you are legally required to serve on a jury. Serving on a jury is a privilege that makes the justice system work, because it depends on impartial juries made up of citizens.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    },
+    {
+      "id": "s02q04",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "What are some examples of taking responsibility for yourself and your family?",
+      "options": ["Getting a job, taking care of one's family and working hard in keeping with one's abilities", "Joining a political party and voting", "Learning to play hockey", "Travelling across Canada"],
+      "answer": 0,
+      "explanation": "Getting a job, taking care of one's family and working hard in keeping with one's abilities are important Canadian values. Work contributes to personal dignity and self-respect, and to Canada's prosperity.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    },
+    {
+      "id": "s02q05",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Which of the following is an example of helping others in the community, as described in the guide?",
+      "options": ["Paying your taxes on time", "Volunteering at a food bank or encouraging newcomers to integrate", "Serving in the Canadian Forces", "Buying a house"],
+      "answer": 1,
+      "explanation": "Millions of volunteers donate their time to help others without pay: helping people in need, assisting at a child's school, volunteering at a food bank or charity, or encouraging newcomers to integrate.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    },
+    {
+      "id": "s02q06",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Every citizen has a role in protecting Canada's heritage and environment. Which of these does the guide mention?",
+      "options": ["Avoiding waste and pollution while protecting natural, cultural and architectural heritage", "Buying only Canadian-made products", "Visiting every national park", "Joining the Coast Guard"],
+      "answer": 0,
+      "explanation": "Every citizen has a role to play in avoiding waste and pollution while protecting Canada's natural, cultural and architectural heritage for future generations.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    },
+    {
+      "id": "s02q07",
+      "type": "tf",
+      "category": "Rights & Responsibilities",
+      "question": "True or false: There is compulsory military service in Canada.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. There is no compulsory military service in Canada. Serving in the regular forces or the reserves is a voluntary and noble way to contribute.",
+      "ref": "Discover Canada, Defending Canada (p. 9)"
+    },
+    {
+      "id": "s02q08",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Besides the regular Canadian Forces, which of these does the guide suggest as a way to help protect your community?",
+      "options": ["Serving in the Coast Guard, a police force or a fire department", "Working at a bank", "Becoming a hockey coach", "Running a restaurant"],
+      "answer": 0,
+      "explanation": "You may serve in the Coast Guard or emergency services in your community such as a police force or fire department. Young people can also get involved in the cadets.",
+      "ref": "Discover Canada, Defending Canada (p. 9)"
+    },
+    {
+      "id": "s02q09",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "What is meant by the equality of women and men in Canada?",
+      "options": ["Women and men must hold the same jobs", "Men and women are equal under the law", "Women vote in separate elections", "Only men can serve on juries"],
+      "answer": 1,
+      "explanation": "In Canada, men and women are equal under the law. Canada's openness does not extend to barbaric cultural practices such as spousal abuse, honour killings, female genital mutilation or forced marriage, which are severely punished under criminal law.",
+      "ref": "Discover Canada, The Equality of Women and Men (p. 9)"
+    },
+    {
+      "id": "s02q10",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Who were the three founding peoples of Canada?",
+      "options": ["Aboriginal, French and British", "French, Spanish and British", "Aboriginal, American and French", "Inuit, Métis and First Nations"],
+      "answer": 0,
+      "explanation": "To understand what it means to be Canadian, it is important to know about our three founding peoples: Aboriginal, French and British.",
+      "ref": "Discover Canada, Who We Are (p. 10)"
+    },
+    {
+      "id": "s02q11",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Canada is the only country in North America that is a...",
+      "options": ["Republic", "Constitutional monarchy", "Federation", "Bilingual state"],
+      "answer": 1,
+      "explanation": "Canada is the only constitutional monarchy in North America, and we have inherited the oldest continuous constitutional tradition in the world.",
+      "ref": "Discover Canada, Who We Are (p. 10)"
+    },
+    {
+      "id": "s02q12",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "\"Peace, Order and Good Government\" is a key phrase from which document?",
+      "options": ["The Charter of Rights and Freedoms (1982)", "The British North America Act (1867)", "The Quebec Act (1774)", "The Official Languages Act (1969)"],
+      "answer": 1,
+      "explanation": "Peace, Order and Good Government is a key phrase in Canada's original constitutional document in 1867, the British North America Act.",
+      "ref": "Discover Canada, Who We Are (p. 10)"
+    },
+    {
+      "id": "s02q13",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Poets and songwriters have hailed Canada by what nickname?",
+      "options": ["The Great White North", "The Great Dominion", "The True North", "The Land of Maples"],
+      "answer": 1,
+      "explanation": "Poets and songwriters have hailed Canada as the \"Great Dominion,\" reflecting the prosperous society Canadians built from the Atlantic to the Pacific and the Arctic Circle.",
+      "ref": "Discover Canada, Who We Are (p. 10)"
+    },
+    {
+      "id": "s02q14",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "John Buchan, Lord Tweedsmuir, was a popular Governor General (1935–40). What did he say immigrant groups should do?",
+      "options": ["Abandon their traditions as quickly as possible", "Retain their individuality and each make a contribution to the national character", "Live in separate communities", "Learn only English"],
+      "answer": 1,
+      "explanation": "Lord Tweedsmuir said immigrant groups \"should retain their individuality and each make its contribution to the national character,\" cherishing both their own traditions and the new loyalty that springs from their union.",
+      "ref": "Discover Canada, Unity in Diversity (p. 11)"
+    },
+    {
+      "id": "s02q15",
+      "type": "tf",
+      "category": "Who We Are",
+      "question": "True or false: Newcomers who have experienced warfare are expected to embrace democratic principles such as the rule of law and must not bring violent or hateful prejudices to Canada.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Experiences of conflict do not justify bringing violent, extreme or hateful prejudices to Canada. In becoming Canadian, newcomers are expected to embrace democratic principles such as the rule of law.",
+      "ref": "Discover Canada, Becoming Canadian (p. 12)"
+    },
+    {
+      "id": "s02q16",
+      "type": "tf",
+      "category": "Rights & Responsibilities",
+      "question": "True or false: The right to vote comes with a responsibility to vote in federal, provincial or territorial and local elections.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Voting in elections is listed as a citizenship responsibility: the right to vote comes with a responsibility to vote in federal, provincial or territorial and local elections.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    },
+    {
+      "id": "s02q17",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Which of the following is NOT listed in the guide as a citizenship responsibility?",
+      "options": ["Serving on a jury", "Obeying the law", "Learning to speak both official languages", "Helping others in the community"],
+      "answer": 2,
+      "explanation": "The responsibilities listed are obeying the law, taking responsibility for oneself and one's family, serving on a jury, voting in elections, helping others in the community, and protecting heritage and environment. Knowing one official language is required, not both.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    },
+    {
+      "id": "s02q18",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Canada's institutions uphold a commitment to which three things?",
+      "options": ["Liberty, Equality, Fraternity", "Peace, Order and Good Government", "Life, Liberty and the Pursuit of Happiness", "Faith, Hope and Charity"],
+      "answer": 1,
+      "explanation": "Our institutions uphold a commitment to Peace, Order and Good Government, a key phrase in the British North America Act of 1867.",
+      "ref": "Discover Canada, Who We Are (p. 10)"
+    },
+    {
+      "id": "s02q19",
+      "type": "tf",
+      "category": "Rights & Responsibilities",
+      "question": "True or false: Young people can learn discipline, responsibility and skills by getting involved in the cadets.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The guide says young people can learn discipline, responsibility and skills by getting involved in the cadets.",
+      "ref": "Discover Canada, Defending Canada (p. 9)"
+    },
+    {
+      "id": "s02q20",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "According to the guide, Canada has inherited what from its constitutional past?",
+      "options": ["The oldest continuous constitutional tradition in the world", "The newest constitution in the Commonwealth", "A constitution written in 1982 from scratch", "The American Bill of Rights"],
+      "answer": 0,
+      "explanation": "Canadians have inherited the oldest continuous constitutional tradition in the world, and Canada is the only constitutional monarchy in North America.",
+      "ref": "Discover Canada, Who We Are (p. 10)"
+    }
+  ]
+}

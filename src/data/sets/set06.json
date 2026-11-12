@@ -1,0 +1,208 @@
+{
+  "id": "set06",
+  "title": "Road to Confederation",
+  "subtitle": "Rebellions, responsible government, the Fathers of Confederation and the first Prime Minister",
+  "topics": ["Rebellions 1837", "Responsible government", "Confederation", "Macdonald"],
+  "questions": [
+    {
+      "id": "s06q01",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In which year did the Montreal Stock Exchange open?",
+      "options": ["1791", "1832", "1867", "1901"],
+      "answer": 1,
+      "explanation": "The first financial institutions opened in the late 18th and early 19th centuries. The Montreal Stock Exchange opened in 1832.",
+      "ref": "Discover Canada, A Growing Economy (p. 17)"
+    },
+    {
+      "id": "s06q02",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "For centuries, Canada's economy was based mainly on what?",
+      "options": ["Manufacturing cars and aircraft", "Farming and exporting natural resources such as fur, fish and timber", "Banking and insurance", "Tourism"],
+      "answer": 1,
+      "explanation": "For centuries Canada's economy was based mainly on farming and on exporting natural resources such as fur, fish and timber, transported by roads, lakes, rivers and canals.",
+      "ref": "Discover Canada, A Growing Economy (p. 17)"
+    },
+    {
+      "id": "s06q03",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Why did armed rebellions break out in Upper and Lower Canada in 1837–38?",
+      "options": ["Reformers believed progress toward full democracy was too slow", "The colonies wanted to rejoin France", "Taxes on fur were raised", "The British Army left the colonies"],
+      "answer": 0,
+      "explanation": "In the 1830s reformers believed that progress toward full democracy was too slow; some wanted American republican values. The rebels outside Montreal and in Toronto lacked public support and were defeated by British troops and Canadian volunteers.",
+      "ref": "Discover Canada, Rebellions of 1837–38 (p. 17)"
+    },
+    {
+      "id": "s06q04",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Lord Durham, sent to report on the rebellions, recommended what?",
+      "options": ["That Canada join the United States", "That Upper and Lower Canada be merged and given responsible government", "That French become the only official language", "That the colonies be returned to France"],
+      "answer": 1,
+      "explanation": "Lord Durham recommended that Upper and Lower Canada be merged and given responsible government. Controversially, he also said the Canadiens should assimilate into English-speaking Protestant culture, which showed a lack of understanding of French Canadians.",
+      "ref": "Discover Canada, Rebellions of 1837–38 (p. 17)"
+    },
+    {
+      "id": "s06q05",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What is meant by the term \"responsible government\"?",
+      "options": ["The government must balance its budget every year", "The ministers of the Crown must have the support of a majority of the elected representatives in order to govern", "The Governor General makes all decisions", "Citizens are responsible for electing the Sovereign"],
+      "answer": 1,
+      "explanation": "Responsible government means the ministers of the Crown must have the support of a majority of the elected representatives in order to govern. If the government loses a confidence vote in the assembly it must resign. This is the system we have today.",
+      "ref": "Discover Canada, Responsible Government (p. 18)"
+    },
+    {
+      "id": "s06q06",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1840, Upper and Lower Canada were united as what?",
+      "options": ["The Dominion of Canada", "The Province of Canada", "British North America", "The Province of Quebec"],
+      "answer": 1,
+      "explanation": "In 1840 Upper and Lower Canada were united as the Province of Canada. Reformers such as La Fontaine and Baldwin, with Joseph Howe in Nova Scotia, worked toward responsible government.",
+      "ref": "Discover Canada, Responsible Government (p. 18)"
+    },
+    {
+      "id": "s06q07",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which was the first British North American colony to attain full responsible government?",
+      "options": ["Nova Scotia, in 1847–48", "Upper Canada, in 1791", "New Brunswick, in 1785", "Prince Edward Island, in 1873"],
+      "answer": 0,
+      "explanation": "The first British North American colony to attain full responsible government was Nova Scotia in 1847–48. In 1848–49 Lord Elgin, governor of United Canada, introduced responsible government there too.",
+      "ref": "Discover Canada, Responsible Government (p. 18)"
+    },
+    {
+      "id": "s06q08",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who was Sir Louis-Hippolyte La Fontaine?",
+      "options": ["The first Prime Minister of Canada", "A champion of French language rights and the first head of a responsible government in Canada (1849)", "The Governor General who chose Ottawa as capital", "The leader of the 1837 rebellion in Lower Canada"],
+      "answer": 1,
+      "explanation": "Sir Louis-Hippolyte La Fontaine, a champion of democracy and French language rights, became the first head of a responsible government (similar to a prime minister) in Canada in 1849.",
+      "ref": "Discover Canada, Responsible Government (p. 18)"
+    },
+    {
+      "id": "s06q09",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What does Confederation mean?",
+      "options": ["The union of the British North American colonies into a new country, the Dominion of Canada, in 1867", "The merger of Upper and Lower Canada in 1840", "The signing of the Charter in 1982", "Canada joining the Commonwealth"],
+      "answer": 0,
+      "explanation": "From 1864 to 1867 representatives of Nova Scotia, New Brunswick and the Province of Canada worked together to establish a new country. The Dominion of Canada was officially born on July 1, 1867 with four provinces: Ontario, Quebec, New Brunswick and Nova Scotia.",
+      "ref": "Discover Canada, Confederation (p. 18)"
+    },
+    {
+      "id": "s06q10",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which four provinces formed the Dominion of Canada in 1867?",
+      "options": ["Ontario, Quebec, New Brunswick and Nova Scotia", "Ontario, Quebec, Manitoba and British Columbia", "Nova Scotia, New Brunswick, P.E.I. and Newfoundland", "Quebec, Ontario, Alberta and Saskatchewan"],
+      "answer": 0,
+      "explanation": "The old Province of Canada was split into Ontario and Quebec, which together with New Brunswick and Nova Scotia formed the Dominion of Canada. Each province would elect its own legislature and control areas such as education and health.",
+      "ref": "Discover Canada, Confederation (p. 18)"
+    },
+    {
+      "id": "s06q11",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which act of the British Parliament created the Dominion of Canada in 1867?",
+      "options": ["The Quebec Act", "The British North America Act", "The Constitutional Act", "The Statute of Westminster"],
+      "answer": 1,
+      "explanation": "The British Parliament passed the British North America Act in 1867. It is now known as the Constitution Act, 1867.",
+      "ref": "Discover Canada, Confederation (p. 18)"
+    },
+    {
+      "id": "s06q12",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Until 1982, what was July 1 called?",
+      "options": ["Confederation Day", "Dominion Day", "Victoria Day", "Canada Day"],
+      "answer": 1,
+      "explanation": "Until 1982, July 1 was celebrated as Dominion Day to commemorate the day Canada became a self-governing Dominion. Today it is officially known as Canada Day.",
+      "ref": "Discover Canada, Confederation (p. 18)"
+    },
+    {
+      "id": "s06q13",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who was Canada's first Prime Minister?",
+      "options": ["Sir Wilfrid Laurier", "Sir John Alexander Macdonald", "Sir George-Étienne Cartier", "Sir Robert Borden"],
+      "answer": 1,
+      "explanation": "In 1867 Sir John A. Macdonald, a Father of Confederation, became Canada's first Prime Minister. Born in Scotland on January 11, 1815, he was a lawyer in Kingston, Ontario. His portrait is on the $10 bill and January 11 is Sir John A. Macdonald Day.",
+      "ref": "Discover Canada, Canada's First Prime Minister (p. 19)"
+    },
+    {
+      "id": "s06q14",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who was the key architect of Confederation from Quebec?",
+      "options": ["Sir Étienne-Paschal Taché", "Sir George-Étienne Cartier", "Louis Riel", "Sir Leonard Tilley"],
+      "answer": 1,
+      "explanation": "Sir George-Étienne Cartier, a railway lawyer and Montrealer, led Quebec into Confederation and helped negotiate the entry of the Northwest Territories, Manitoba and British Columbia into Canada.",
+      "ref": "Discover Canada, Canada's First Prime Minister (p. 19)"
+    },
+    {
+      "id": "s06q15",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who suggested the term \"Dominion of Canada\" in 1864, and what inspired him?",
+      "options": ["Sir Leonard Tilley, inspired by Psalm 72 in the Bible", "Sir John A. Macdonald, inspired by Magna Carta", "Queen Victoria, inspired by the British Empire", "Lord Durham, inspired by the United States"],
+      "answer": 0,
+      "explanation": "Sir Leonard Tilley, a Father of Confederation from New Brunswick, suggested the term Dominion of Canada in 1864. He was inspired by Psalm 72, which refers to \"dominion from sea to sea and from the river to the ends of the earth.\"",
+      "ref": "Discover Canada, Dominion from Sea to Sea (p. 19)"
+    },
+    {
+      "id": "s06q16",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "How many levels of government did the Fathers of Confederation create?",
+      "options": ["One: federal", "Two: federal and provincial", "Three: federal, provincial and municipal", "Four: imperial, federal, provincial and municipal"],
+      "answer": 1,
+      "explanation": "The Fathers of Confederation created two levels of government: federal and provincial. Municipal governments exist today under provincial authority.",
+      "ref": "Discover Canada, Confederation (p. 18)"
+    },
+    {
+      "id": "s06q17",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: Sir John A. Macdonald's portrait appears on the $10 bill.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The guide says Macdonald's portrait is on the $10 bill. (Since 2018 the newest $10 note features Viola Desmond, but older Macdonald notes remain legal tender.)",
+      "ref": "Discover Canada, Canada's First Prime Minister (p. 19)"
+    },
+    {
+      "id": "s06q18",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: The Dominion of Canada was officially born on July 1, 1867.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The Dominion of Canada was officially born on July 1, 1867, the birth of the country we know today.",
+      "ref": "Discover Canada, Confederation (p. 18)"
+    },
+    {
+      "id": "s06q19",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: The 1837–38 rebels had strong public support and succeeded in overthrowing the government.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The rebels did not have enough public support to succeed. They were defeated by British troops and Canadian volunteers; a number were hanged or exiled.",
+      "ref": "Discover Canada, Rebellions of 1837–38 (p. 17)"
+    },
+    {
+      "id": "s06q20",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which reformer in Nova Scotia worked in parallel with La Fontaine and Baldwin toward responsible government?",
+      "options": ["Joseph Howe", "Lord Elgin", "Sir Sam Steele", "Robert Ross"],
+      "answer": 0,
+      "explanation": "Reformers such as Sir Louis-Hippolyte La Fontaine and Robert Baldwin, in parallel with Joseph Howe in Nova Scotia, worked with British governors toward responsible government.",
+      "ref": "Discover Canada, Responsible Government (p. 18)"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "set17",
+  "title": "Honours, Anthems & Holidays",
+  "subtitle": "The Victoria Cross, O Canada, the Order of Canada, official languages and important dates",
+  "topics": ["Victoria Cross", "O Canada", "Order of Canada", "Holidays"],
+  "questions": [
+    {
+      "id": "s17q01",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is the highest honour that Canadians can receive?",
+      "options": ["The Order of Canada", "The Victoria Cross", "The Stanley Cup", "The Nobel Prize"],
+      "answer": 1,
+      "explanation": "The Victoria Cross (V.C.) is the highest honour available to Canadians. It is awarded for the most conspicuous bravery, a daring act of valour or self-sacrifice, or extreme devotion to duty in the presence of the enemy.",
+      "ref": "Discover Canada, The Victoria Cross (p. 40)"
+    },
+    {
+      "id": "s17q02",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "How many Canadians have been awarded the Victoria Cross since 1854?",
+      "options": ["16", "54", "96", "250"],
+      "answer": 2,
+      "explanation": "The V.C. has been awarded to 96 Canadians since 1854.",
+      "ref": "Discover Canada, The Victoria Cross (p. 40)"
+    },
+    {
+      "id": "s17q03",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Who was the first Canadian to be awarded the Victoria Cross?",
+      "options": ["Billy Bishop", "Alexander Roberts Dunn, in the Charge of the Light Brigade (1854)", "William Hall", "Paul Triquet"],
+      "answer": 1,
+      "explanation": "Lieutenant Alexander Roberts Dunn, born in present-day Toronto, served in the Charge of the Light Brigade at Balaclava (1854) in the Crimean War and was the first Canadian awarded the V.C.",
+      "ref": "Discover Canada, The Victoria Cross (p. 40)"
+    },
+    {
+      "id": "s17q04",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Who was the first black man to be awarded the Victoria Cross?",
+      "options": ["Able Seaman William Hall of Horton, Nova Scotia", "Corporal Filip Konowal", "Lieutenant Robert Hampton Gray", "Captain Paul Triquet"],
+      "answer": 0,
+      "explanation": "Able Seaman William Hall of Horton, Nova Scotia, whose parents were American slaves, was the first black man to be awarded the V.C., for his role in the Siege of Lucknow during the Indian Rebellion of 1857.",
+      "ref": "Discover Canada, The Victoria Cross (p. 40)"
+    },
+    {
+      "id": "s17q05",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Which First World War flying ace from Owen Sound, Ontario, earned the Victoria Cross?",
+      "options": ["Arthur Currie", "Billy Bishop", "John McCrae", "Robert Hampton Gray"],
+      "answer": 1,
+      "explanation": "Flying ace Captain Billy Bishop, born in Owen Sound, Ontario, earned the V.C. in the Royal Flying Corps during the First World War and was later an honorary Air Marshal of the RCAF.",
+      "ref": "Discover Canada, The Victoria Cross (p. 40)"
+    },
+    {
+      "id": "s17q06",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Who was the last Canadian to receive the Victoria Cross to date?",
+      "options": ["Paul Triquet, Italy 1943", "Lieutenant Robert Hampton Gray, killed in August 1945", "Filip Konowal, Hill 70, 1917", "Billy Bishop"],
+      "answer": 1,
+      "explanation": "Lieutenant Robert Hampton Gray, a navy pilot born in Trail, B.C., was killed while bombing and sinking a Japanese warship in August 1945, days before the end of the Second World War, and was the last Canadian to receive the V.C. to date.",
+      "ref": "Discover Canada, The Victoria Cross (p. 40)"
+    },
+    {
+      "id": "s17q07",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "In what year was O Canada proclaimed as the national anthem?",
+      "options": ["1880", "1921", "1967", "1980"],
+      "answer": 3,
+      "explanation": "O Canada was proclaimed as the national anthem in 1980. It was first sung in Québec City in 1880. French and English Canadians sing different words.",
+      "ref": "Discover Canada, National Anthem (p. 40)"
+    },
+    {
+      "id": "s17q08",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Where and when was O Canada first sung?",
+      "options": ["Ottawa, 1867", "Québec City, 1880", "Montreal, 1921", "Toronto, 1965"],
+      "answer": 1,
+      "explanation": "O Canada was first sung in Québec City in 1880, a century before it was proclaimed the national anthem.",
+      "ref": "Discover Canada, National Anthem (p. 40)"
+    },
+    {
+      "id": "s17q09",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is the Royal Anthem of Canada?",
+      "options": ["O Canada", "God Save the King (or Queen)", "The Maple Leaf Forever", "Land of Hope and Glory"],
+      "answer": 1,
+      "explanation": "The Royal Anthem of Canada, \"God Save the King (or Queen),\" can be played or sung on any occasion when Canadians wish to honour the Sovereign.",
+      "ref": "Discover Canada, Royal Anthem (p. 40)"
+    },
+    {
+      "id": "s17q10",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "Complete the line from O Canada: \"The true North ...\"",
+      "options": ["...strong and free!", "...brave and proud!", "...glorious and free!", "...home and native land!"],
+      "answer": 0,
+      "explanation": "\"With glowing hearts we see thee rise / The true North strong and free!\" is from the English lyrics of O Canada.",
+      "ref": "Discover Canada, National Anthem (p. 40)"
+    },
+    {
+      "id": "s17q11",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "When did Canada start its own honours system with the Order of Canada?",
+      "options": ["1867", "1921", "1967, the centennial of Confederation", "1982"],
+      "answer": 2,
+      "explanation": "After using British honours for many years, Canada started its own honours system with the Order of Canada in 1967, the centennial of Confederation.",
+      "ref": "Discover Canada, The Order of Canada and Other Honours (p. 41)"
+    },
+    {
+      "id": "s17q12",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What are the three main objectives of the Official Languages Act of 1969?",
+      "options": ["Make every Canadian bilingual, abolish French schools, promote English abroad", "Establish equality of French and English in Parliament and government; maintain official language minority communities; promote equality of French and English in society", "Make French the language of Quebec only", "Replace English with French in the civil service"],
+      "answer": 1,
+      "explanation": "The Act's objectives: establish equality between French and English in Parliament, the Government of Canada and institutions subject to the Act; maintain and develop official language minority communities; and promote equality of French and English in Canadian society.",
+      "ref": "Discover Canada, Canada's Official Languages (p. 39)"
+    },
+    {
+      "id": "s17q13",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "On what date is Canada Day celebrated?",
+      "options": ["June 24", "July 1", "July 4", "September 1"],
+      "answer": 1,
+      "explanation": "Canada Day is July 1, marking the birth of the Dominion of Canada on July 1, 1867.",
+      "ref": "Discover Canada, National Public Holidays (p. 41)"
+    },
+    {
+      "id": "s17q14",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "When is Victoria Day?",
+      "options": ["The Monday preceding May 25, the Sovereign's birthday", "May 1", "The first Monday of September", "The second Monday of October"],
+      "answer": 0,
+      "explanation": "Victoria Day is the Monday preceding May 25 (the Sovereign's birthday).",
+      "ref": "Discover Canada, National Public Holidays (p. 41)"
+    },
+    {
+      "id": "s17q15",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "When is Thanksgiving Day in Canada?",
+      "options": ["The fourth Thursday of November", "The second Monday of October", "The first Monday of September", "November 11"],
+      "answer": 1,
+      "explanation": "Thanksgiving Day is the second Monday of October. Labour Day is the first Monday of September.",
+      "ref": "Discover Canada, National Public Holidays (p. 41)"
+    },
+    {
+      "id": "s17q16",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "On what date is Sir John A. Macdonald Day?",
+      "options": ["January 11", "April 9", "November 20", "December 26"],
+      "answer": 0,
+      "explanation": "Sir John A. Macdonald Day is January 11, his birthday. Sir Wilfrid Laurier Day is November 20. Vimy Day is April 9. Boxing Day is December 26.",
+      "ref": "Discover Canada, National Public Holidays (p. 41)"
+    },
+    {
+      "id": "s17q17",
+      "type": "mc",
+      "category": "Canadian Symbols",
+      "question": "What is celebrated in Quebec on June 24?",
+      "options": ["Canada Day", "Fête nationale (Feast of St. John the Baptist)", "Victoria Day", "Remembrance Day"],
+      "answer": 1,
+      "explanation": "June 24 is the Fête nationale in Quebec, the Feast of St. John the Baptist.",
+      "ref": "Discover Canada, National Public Holidays (p. 41)"
+    },
+    {
+      "id": "s17q18",
+      "type": "tf",
+      "category": "Canadian Symbols",
+      "question": "True or false: Remembrance Day is observed on November 11.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Remembrance Day is November 11, marking the Armistice that ended the First World War in 1918.",
+      "ref": "Discover Canada, National Public Holidays (p. 41)"
+    },
+    {
+      "id": "s17q19",
+      "type": "tf",
+      "category": "Canadian Symbols",
+      "question": "True or false: Queen Elizabeth II became Queen of Canada in 1952 and celebrated her Diamond Jubilee (60 years) in 2012.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Queen Elizabeth II was Queen of Canada from 1952 until her death in 2022. She marked her Golden Jubilee in 2002 and Diamond Jubilee in 2012. Her son is now King Charles III.",
+      "ref": "Discover Canada, The Canadian Crown (p. 38)"
+    },
+    {
+      "id": "s17q20",
+      "type": "tf",
+      "category": "Canadian Symbols",
+      "question": "True or false: Ordinary citizens may nominate fellow citizens for honours such as the Order of Canada.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. If you know of fellow citizens who you think are worthy of recognition, you are welcome to nominate them.",
+      "ref": "Discover Canada, The Order of Canada and Other Honours (p. 41)"
+    }
+  ]
+}

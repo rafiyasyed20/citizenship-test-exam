@@ -1,0 +1,208 @@
+{
+  "id": "set12",
+  "title": "Crown, Cabinet & Courts",
+  "subtitle": "Constitutional monarchy, the Governor General, the three branches and how a bill becomes law",
+  "topics": ["Monarchy", "Governor General", "Branches", "Bills"],
+  "questions": [
+    {
+      "id": "s12q01",
+      "type": "mc",
+      "category": "Government",
+      "question": "What does it mean to say that Canada is a constitutional monarchy?",
+      "options": ["The monarch makes all laws", "Canada's head of state is a hereditary Sovereign who reigns in accordance with the Constitution, the rule of law", "The Prime Minister is elected for life", "Parliament can be dissolved only by the monarch"],
+      "answer": 1,
+      "explanation": "As a constitutional monarchy, Canada's head of state is a hereditary Sovereign (King or Queen) who reigns in accordance with the Constitution: the rule of law. The Sovereign is part of Parliament and plays a non-partisan role.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q02",
+      "type": "mc",
+      "category": "Government",
+      "question": "What is the difference between the role of the Sovereign and that of the Prime Minister?",
+      "options": ["There is no difference", "The Sovereign is head of state; the Prime Minister is head of government and actually directs the governing of the country", "The Prime Minister is head of state; the Sovereign is head of government", "The Sovereign runs Parliament; the Prime Minister runs the courts"],
+      "answer": 1,
+      "explanation": "There is a clear distinction between the head of state, the Sovereign, and the head of government, the Prime Minister, who actually directs the governing of the country.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q03",
+      "type": "mc",
+      "category": "Government",
+      "question": "Who represents the Sovereign in Canada at the federal level?",
+      "options": ["The Prime Minister", "The Governor General", "The Chief Justice", "The Speaker of the Senate"],
+      "answer": 1,
+      "explanation": "The Sovereign is represented in Canada by the Governor General, who is appointed by the Sovereign on the advice of the Prime Minister, usually for five years.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q04",
+      "type": "mc",
+      "category": "Government",
+      "question": "How is the Governor General appointed, and for how long?",
+      "options": ["Elected by voters for four years", "Appointed by the Sovereign on the advice of the Prime Minister, usually for five years", "Appointed by the Senate for life", "Chosen by the provincial premiers for ten years"],
+      "answer": 1,
+      "explanation": "The Governor General is appointed by the Sovereign on the advice of the Prime Minister, usually for five years.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q05",
+      "type": "mc",
+      "category": "Government",
+      "question": "Who represents the Sovereign in each of the ten provinces?",
+      "options": ["The Premier", "The Lieutenant Governor", "The Commissioner", "The Mayor"],
+      "answer": 1,
+      "explanation": "In each of the ten provinces the Sovereign is represented by the Lieutenant Governor, who is appointed by the Governor General on the advice of the Prime Minister, normally for five years.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q06",
+      "type": "mc",
+      "category": "Government",
+      "question": "In the three territories, who represents the federal government and plays a ceremonial role?",
+      "options": ["The Lieutenant Governor", "The Commissioner", "The Governor General", "The Senator"],
+      "answer": 1,
+      "explanation": "In the three territories, the Commissioner represents the federal government and plays a ceremonial role.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q07",
+      "type": "mc",
+      "category": "Government",
+      "question": "What are the three branches of government?",
+      "options": ["Federal, provincial and municipal", "Executive, Legislative and Judicial", "Sovereign, Senate and House of Commons", "Cabinet, Opposition and Courts"],
+      "answer": 1,
+      "explanation": "The interplay between the three branches of government, the Executive, Legislative and Judicial, which work together but sometimes in creative tension, helps secure the rights and freedoms of Canadians.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q08",
+      "type": "mc",
+      "category": "Government",
+      "question": "In each province, who has a role similar to that of the Prime Minister?",
+      "options": ["The Lieutenant Governor", "The Premier", "The Commissioner", "The Speaker"],
+      "answer": 1,
+      "explanation": "In each province the Premier has a role similar to that of the Prime Minister in the federal government, just as the Lieutenant Governor has a role similar to that of the Governor General.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q09",
+      "type": "mc",
+      "category": "Government",
+      "question": "As Head of the Commonwealth, the Sovereign links Canada to how many other nations, according to the guide?",
+      "options": ["12", "27", "53", "193"],
+      "answer": 2,
+      "explanation": "As Head of the Commonwealth, the Sovereign links Canada to 53 other nations that cooperate to advance social, economic and cultural progress. (The Commonwealth has since grown to 56 members.)",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q10",
+      "type": "mc",
+      "category": "Government",
+      "question": "Which of these countries is NOT listed in the guide as a constitutional monarchy?",
+      "options": ["Denmark", "Japan", "France", "Thailand"],
+      "answer": 2,
+      "explanation": "Other constitutional monarchies include Denmark, Norway, Sweden, Australia, New Zealand, The Netherlands, Spain, Thailand, Japan, Jordan and Morocco. France is a republic.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q11",
+      "type": "mc",
+      "category": "Government",
+      "question": "What is the first step in how a bill becomes law?",
+      "options": ["Royal Assent", "Committee Stage", "First Reading: the bill is considered read for the first time and is printed", "Senate review"],
+      "answer": 2,
+      "explanation": "The steps are: 1 First Reading (printed), 2 Second Reading (debate the principle), 3 Committee Stage (clause by clause), 4 Report Stage (amendments), 5 Third Reading (debate and vote), 6 Senate (similar process), 7 Royal Assent.",
+      "ref": "Discover Canada, How a Bill Becomes Law (p. 29)"
+    },
+    {
+      "id": "s12q12",
+      "type": "mc",
+      "category": "Government",
+      "question": "At which stage do committee members study a bill clause by clause?",
+      "options": ["First Reading", "Second Reading", "Committee Stage", "Report Stage"],
+      "answer": 2,
+      "explanation": "At the Committee Stage, committee members study the bill clause by clause. At the Report Stage, members can make other amendments.",
+      "ref": "Discover Canada, How a Bill Becomes Law (p. 29)"
+    },
+    {
+      "id": "s12q13",
+      "type": "mc",
+      "category": "Government",
+      "question": "What is the final step for a bill to become law?",
+      "options": ["Third Reading", "Senate approval", "Royal Assent, granted by the Governor General on behalf of the Sovereign", "A referendum"],
+      "answer": 2,
+      "explanation": "Step 7 is Royal Assent: the bill receives royal assent after being passed by both Houses, granted by the Governor General on behalf of the Sovereign.",
+      "ref": "Discover Canada, How a Bill Becomes Law (p. 29)"
+    },
+    {
+      "id": "s12q14",
+      "type": "mc",
+      "category": "Government",
+      "question": "How many judges sit on the Supreme Court of Canada, and who appoints them?",
+      "options": ["Seven, appointed by the Senate", "Nine, appointed by the Governor General", "Eleven, elected by voters", "Thirteen, one from each province and territory"],
+      "answer": 1,
+      "explanation": "The Supreme Court of Canada has nine judges appointed by the Governor General. It is the country's highest court.",
+      "ref": "Discover Canada, Canada's System of Government diagram (p. 29)"
+    },
+    {
+      "id": "s12q15",
+      "type": "mc",
+      "category": "Government",
+      "question": "Which branch of government is made up of the Prime Minister and Cabinet?",
+      "options": ["The Legislative branch", "The Executive branch", "The Judicial branch", "The Royal branch"],
+      "answer": 1,
+      "explanation": "The Prime Minister and Cabinet form the Executive branch. The Senate and House of Commons form the Legislative branch, and the courts form the Judiciary.",
+      "ref": "Discover Canada, Canada's System of Government diagram (p. 29)"
+    },
+    {
+      "id": "s12q16",
+      "type": "tf",
+      "category": "Government",
+      "question": "True or false: The Sovereign plays a partisan political role, supporting the governing party.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The Sovereign plays an important, non-partisan role as the focus of citizenship and allegiance, a symbol of Canadian sovereignty and a guardian of constitutional freedoms.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q17",
+      "type": "tf",
+      "category": "Government",
+      "question": "True or false: Canada's head of state is the Prime Minister.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The head of state is the Sovereign (today King Charles III). The Prime Minister is the head of government.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s12q18",
+      "type": "tf",
+      "category": "Government",
+      "question": "True or false: Canadians aged 18 or more are encouraged to participate in democracy by voting in federal, provincial or territorial and municipal elections.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Living in a democracy, Canadian citizens have the right and the responsibility to participate in decisions that affect them, and it is important for Canadians aged 18 or more to vote at every level.",
+      "ref": "Discover Canada, Making Laws (p. 29)"
+    },
+    {
+      "id": "s12q19",
+      "type": "mc",
+      "category": "Government",
+      "question": "Who is Canada's head of state today?",
+      "options": ["The Prime Minister", "The Governor General", "King Charles III", "Queen Elizabeth II"],
+      "answer": 2,
+      "explanation": "The Sovereign is head of state. The guide was written during the reign of Queen Elizabeth II, who died on September 8, 2022. Her son, King Charles III, is now King of Canada.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29); updated for 2022"
+    },
+    {
+      "id": "s12q20",
+      "type": "mc",
+      "category": "Government",
+      "question": "At which reading do members debate and vote on a bill in the House of Commons?",
+      "options": ["First Reading", "Second Reading", "Third Reading", "Report Stage"],
+      "answer": 2,
+      "explanation": "At Second Reading members debate the bill's principle; at Third Reading members debate and vote on the bill before it goes to the Senate.",
+      "ref": "Discover Canada, How a Bill Becomes Law (p. 29)"
+    }
+  ]
+}

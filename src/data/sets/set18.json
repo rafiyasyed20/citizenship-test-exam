@@ -1,0 +1,208 @@
+{
+  "id": "set18",
+  "title": "Economy & the Atlantic",
+  "subtitle": "Canada's trading economy, the regions and capitals, and the four Atlantic provinces",
+  "topics": ["Trade", "Industries", "Capitals", "Atlantic provinces"],
+  "questions": [
+    {
+      "id": "s18q01",
+      "type": "mc",
+      "category": "Canada's Economy",
+      "question": "What are the three main types of industries in Canada's economy?",
+      "options": ["Service, manufacturing and natural resources", "Banking, farming and tourism", "Oil, forestry and fishing", "Technology, mining and retail"],
+      "answer": 0,
+      "explanation": "Canada's economy includes three main types of industries: service industries (more than 75% of working Canadians), manufacturing industries, and natural resources industries such as forestry, fishing, agriculture, mining and energy.",
+      "ref": "Discover Canada, Canada's Economy (p. 42)"
+    },
+    {
+      "id": "s18q02",
+      "type": "mc",
+      "category": "Canada's Economy",
+      "question": "More than 75% of working Canadians have jobs in which type of industry?",
+      "options": ["Manufacturing", "Natural resources", "Service industries", "Agriculture"],
+      "answer": 2,
+      "explanation": "More than 75% of working Canadians now have jobs in service industries such as transportation, education, health care, construction, banking, communications, retail, tourism and government.",
+      "ref": "Discover Canada, Canada's Economy (p. 42)"
+    },
+    {
+      "id": "s18q03",
+      "type": "mc",
+      "category": "Canada's Economy",
+      "question": "Who is Canada's largest international trading partner?",
+      "options": ["China", "The United Kingdom", "The United States", "Mexico"],
+      "answer": 2,
+      "explanation": "The United States is Canada's largest trading partner and each is the other's largest trading partner. Over three-quarters of Canadian exports go to the U.S.A., the biggest bilateral trading relationship in the world.",
+      "ref": "Discover Canada, Canada's Economy (p. 42)"
+    },
+    {
+      "id": "s18q04",
+      "type": "mc",
+      "category": "Canada's Economy",
+      "question": "In what year did Canada enact free trade with the United States?",
+      "options": ["1967", "1988", "1994", "2001"],
+      "answer": 1,
+      "explanation": "In 1988 Canada enacted free trade with the United States. Mexico became a partner in 1994 in the broader North American Free Trade Agreement (NAFTA).",
+      "ref": "Discover Canada, A Trading Nation (p. 43)"
+    },
+    {
+      "id": "s18q05",
+      "type": "mc",
+      "category": "Canada's Economy",
+      "question": "Canada is part of which group of leading industrialized countries, according to the guide?",
+      "options": ["The G8", "OPEC", "ASEAN", "The European Union"],
+      "answer": 0,
+      "explanation": "Canada has one of the ten largest economies in the world and is part of the G8 (now the G7, after Russia's suspension in 2014) with the United States, Germany, the United Kingdom, Italy, France and Japan.",
+      "ref": "Discover Canada, A Trading Nation (p. 43)"
+    },
+    {
+      "id": "s18q06",
+      "type": "mc",
+      "category": "Canada's Economy",
+      "question": "The Peace Arch at Blaine, Washington, is inscribed with which words?",
+      "options": ["\"From sea to sea\"", "\"Children of a common mother\" and \"Brethren dwelling together in unity\"", "\"Peace, order and good government\"", "\"The true North strong and free\""],
+      "answer": 1,
+      "explanation": "The Peace Arch, inscribed with \"children of a common mother\" and \"brethren dwelling together in unity,\" symbolizes the close ties and common interests of Canada and the U.S.A. across the world's longest undefended border.",
+      "ref": "Discover Canada, Canada's Economy (p. 43)"
+    },
+    {
+      "id": "s18q07",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What are the five distinct regions of Canada?",
+      "options": ["East, West, North, South and Central", "The Atlantic Provinces, Central Canada, the Prairie Provinces, the West Coast and the Northern Territories", "Maritimes, Quebec, Ontario, Prairies and Rockies", "Arctic, Boreal, Shield, Plains and Coast"],
+      "answer": 1,
+      "explanation": "Canada includes five distinct regions: the Atlantic Provinces, Central Canada, the Prairie Provinces, the West Coast and the Northern Territories.",
+      "ref": "Discover Canada, The Regions of Canada (p. 44)"
+    },
+    {
+      "id": "s18q08",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Who chose Ottawa as the capital of Canada, and when?",
+      "options": ["Sir John A. Macdonald in 1867", "Queen Victoria in 1857", "The Duke of Wellington in 1814", "Lord Durham in 1839"],
+      "answer": 1,
+      "explanation": "Ottawa, on the Ottawa River, was chosen as the capital in 1857 by Queen Victoria, the great-great-grandmother of Queen Elizabeth II. It is Canada's fourth largest metropolitan area.",
+      "ref": "Discover Canada, The National Capital (p. 44)"
+    },
+    {
+      "id": "s18q09",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "How many provinces and territories does Canada have?",
+      "options": ["Ten provinces and two territories", "Ten provinces and three territories", "Nine provinces and three territories", "Twelve provinces and one territory"],
+      "answer": 1,
+      "explanation": "Canada has ten provinces and three territories, each with its own capital city. You should know the capital of your province or territory as well as that of Canada.",
+      "ref": "Discover Canada, Provinces and Territories (p. 44)"
+    },
+    {
+      "id": "s18q10",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which three oceans line Canada's frontiers?",
+      "options": ["Pacific, Atlantic and Indian", "Pacific, Atlantic and Arctic", "Atlantic, Arctic and Southern", "Pacific, Arctic and Hudson"],
+      "answer": 1,
+      "explanation": "Three oceans line Canada's frontiers: the Pacific in the west, the Atlantic in the east, and the Arctic to the north. Canada is the second largest country on earth, at 10 million square kilometres.",
+      "ref": "Discover Canada, Canada's Regions (p. 45)"
+    },
+    {
+      "id": "s18q11",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What provinces are referred to as the Atlantic Provinces?",
+      "options": ["Quebec, Ontario, New Brunswick and Nova Scotia", "Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick", "Nova Scotia, New Brunswick and Manitoba", "Newfoundland, Quebec and Nunavut"],
+      "answer": 1,
+      "explanation": "The Atlantic Provinces are Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick. Their coasts and natural resources made them an important part of Canada's history.",
+      "ref": "Discover Canada, The Atlantic Provinces (p. 46)"
+    },
+    {
+      "id": "s18q12",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What is the capital of Newfoundland and Labrador?",
+      "options": ["Saint John", "St. John's", "Halifax", "Charlottetown"],
+      "answer": 1,
+      "explanation": "St. John's is the capital of Newfoundland and Labrador. (Saint John is a city in New Brunswick.)",
+      "ref": "Discover Canada, Canada's Regions map (p. 44)"
+    },
+    {
+      "id": "s18q13",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which province is the most easterly point in North America and has its own time zone?",
+      "options": ["Nova Scotia", "Newfoundland and Labrador", "Prince Edward Island", "New Brunswick"],
+      "answer": 1,
+      "explanation": "Newfoundland and Labrador is the most easterly point in North America and has its own time zone. It was the oldest colony of the British Empire and is known for its fisheries; today off-shore oil and gas are a big part of the economy.",
+      "ref": "Discover Canada, Newfoundland and Labrador (p. 46)"
+    },
+    {
+      "id": "s18q14",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which province is the smallest, known for beaches, red soil and potatoes, and is the birthplace of Confederation?",
+      "options": ["Nova Scotia", "New Brunswick", "Prince Edward Island", "Newfoundland and Labrador"],
+      "answer": 2,
+      "explanation": "Prince Edward Island is the smallest province, known for its beaches, red soil and agriculture, especially potatoes. It is the birthplace of Confederation and is linked to the mainland by the Confederation Bridge. Its capital is Charlottetown.",
+      "ref": "Discover Canada, Prince Edward Island (p. 46)"
+    },
+    {
+      "id": "s18q15",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Anne of Green Gables, set in P.E.I., was written by whom?",
+      "options": ["Margaret Laurence", "Lucy Maud Montgomery", "Pauline Johnson", "Robertson Davies"],
+      "answer": 1,
+      "explanation": "Anne of Green Gables, set in P.E.I. by Lucy Maud Montgomery, is a much-loved story about a little red-headed orphan girl.",
+      "ref": "Discover Canada, Prince Edward Island (p. 46)"
+    },
+    {
+      "id": "s18q16",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which province is the most populous Atlantic province, known for the world's highest tides in the Bay of Fundy?",
+      "options": ["New Brunswick", "Nova Scotia", "Prince Edward Island", "Newfoundland and Labrador"],
+      "answer": 1,
+      "explanation": "Nova Scotia is the most populous Atlantic Province, known for the world's highest tides in the Bay of Fundy. Its capital, Halifax, is Canada's largest east coast port and home to Canada's largest naval base.",
+      "ref": "Discover Canada, Nova Scotia (p. 46)"
+    },
+    {
+      "id": "s18q17",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What is the capital of New Brunswick?",
+      "options": ["Saint John", "Moncton", "Fredericton", "Halifax"],
+      "answer": 2,
+      "explanation": "Fredericton is the historic capital of New Brunswick. Saint John is the largest city and port, and Moncton is the principal Francophone Acadian centre.",
+      "ref": "Discover Canada, New Brunswick (p. 47)"
+    },
+    {
+      "id": "s18q18",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: Canada is the largest country on earth by area.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Canada is the second largest country on earth, at 10 million square kilometres. Russia is the largest.",
+      "ref": "Discover Canada, Canada's Regions (p. 45)"
+    },
+    {
+      "id": "s18q19",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: Canada's population, according to the guide, is about 34 million.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The guide gives a population of about 34 million. (It has since passed 40 million.) While the majority live in cities, Canadians also live in small towns and rural areas.",
+      "ref": "Discover Canada, Population (p. 44)"
+    },
+    {
+      "id": "s18q20",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: Halifax is home to Canada's largest naval base.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Halifax, a deep-water, ice-free port, has played an important role in Atlantic trade and defence and is home to Canada's largest naval base.",
+      "ref": "Discover Canada, Nova Scotia (p. 46)"
+    }
+  ]
+}

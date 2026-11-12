@@ -1,0 +1,208 @@
+{
+  "id": "set07",
+  "title": "Sea to Sea",
+  "subtitle": "Expansion west, Louis Riel, the Mounties, the railway, Laurier and women's suffrage",
+  "topics": ["Riel", "RCMP", "CPR", "Laurier", "Suffrage"],
+  "questions": [
+    {
+      "id": "s07q01",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which provinces or territories joined Confederation in 1870?",
+      "options": ["British Columbia", "Manitoba and the Northwest Territories", "Prince Edward Island", "Alberta and Saskatchewan"],
+      "answer": 1,
+      "explanation": "Expansion of the Dominion: 1867 Ontario, Quebec, Nova Scotia, New Brunswick; 1870 Manitoba and N.W.T.; 1871 British Columbia; 1873 P.E.I.; 1898 Yukon; 1905 Alberta and Saskatchewan; 1949 Newfoundland and Labrador; 1999 Nunavut.",
+      "ref": "Discover Canada, Expansion of the Dominion (p. 19)"
+    },
+    {
+      "id": "s07q02",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In which year did British Columbia join Canada?",
+      "options": ["1867", "1870", "1871", "1873"],
+      "answer": 2,
+      "explanation": "British Columbia joined Canada in 1871 after Ottawa promised to build a railway to the West Coast.",
+      "ref": "Discover Canada, Expansion of the Dominion (p. 19)"
+    },
+    {
+      "id": "s07q03",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which was the last province to join Canada, and when?",
+      "options": ["Prince Edward Island, 1873", "Alberta, 1905", "Newfoundland and Labrador, 1949", "Nunavut, 1999"],
+      "answer": 2,
+      "explanation": "Newfoundland and Labrador joined in 1949 as the tenth province. Nunavut, created in 1999, is a territory, not a province.",
+      "ref": "Discover Canada, Expansion of the Dominion (p. 19)"
+    },
+    {
+      "id": "s07q04",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In which year were Alberta and Saskatchewan created as provinces?",
+      "options": ["1870", "1885", "1898", "1905"],
+      "answer": 3,
+      "explanation": "Alberta and Saskatchewan both became provinces in 1905. Yukon Territory was created in 1898.",
+      "ref": "Discover Canada, Expansion of the Dominion (p. 19)"
+    },
+    {
+      "id": "s07q05",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Why did Louis Riel lead an armed uprising and seize Fort Garry in 1869?",
+      "options": ["The 12,000 Métis of the Red River were not consulted when Canada took over the northwest from the Hudson's Bay Company", "He wanted to join the United States", "He opposed the building of the railway", "He wanted to become Governor General"],
+      "answer": 0,
+      "explanation": "When Canada took over the vast northwest region from the Hudson's Bay Company in 1869, the 12,000 Métis of the Red River were not consulted. In response Louis Riel led an armed uprising and seized Fort Garry, the territorial capital.",
+      "ref": "Discover Canada, Challenge in the West (p. 19)"
+    },
+    {
+      "id": "s07q06",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Louis Riel is seen by many as the father of which province?",
+      "options": ["Saskatchewan", "Manitoba", "Alberta", "British Columbia"],
+      "answer": 1,
+      "explanation": "After the 1870 uprising Canada established a new province, Manitoba. Riel is seen by many as a hero, a defender of Métis rights and the father of Manitoba.",
+      "ref": "Discover Canada, Challenge in the West (p. 19)"
+    },
+    {
+      "id": "s07q07",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What happened to Louis Riel after the second rebellion in 1885 in present-day Saskatchewan?",
+      "options": ["He became Premier of Manitoba", "He was tried and executed for high treason", "He fled to France", "He was elected Prime Minister"],
+      "answer": 1,
+      "explanation": "The 1885 rebellion led to Riel's trial and execution for high treason, a decision that was strongly opposed in Quebec. Gabriel Dumont was the Métis' greatest military leader.",
+      "ref": "Discover Canada, Challenge in the West (p. 19)"
+    },
+    {
+      "id": "s07q08",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who established the North West Mounted Police (NWMP) in 1873, and why?",
+      "options": ["Louis Riel, to defend Métis lands", "Prime Minister Macdonald, to pacify the West and assist in negotiations with the Indians", "Queen Victoria, to guard the railway", "Lord Durham, to stop the rebellions"],
+      "answer": 1,
+      "explanation": "After the first Métis uprising, Prime Minister Macdonald established the NWMP in 1873 to pacify the West and assist in negotiations with the Indians. The NWMP founded Fort Calgary and Fort MacLeod, and Regina became its headquarters.",
+      "ref": "Discover Canada, Challenge in the West (p. 19)"
+    },
+    {
+      "id": "s07q09",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What is the NWMP known as today?",
+      "options": ["The Ontario Provincial Police", "The Royal Canadian Mounted Police (RCMP), or \"the Mounties\"", "The Canadian Rangers", "The Coast Guard"],
+      "answer": 1,
+      "explanation": "Today the Royal Canadian Mounted Police (RCMP or \"the Mounties\") are the national police force and one of Canada's best-known symbols. Major-General Sir Sam Steele came from their ranks.",
+      "ref": "Discover Canada, Challenge in the West (p. 19)"
+    },
+    {
+      "id": "s07q10",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What did the Canadian Pacific Railway symbolize?",
+      "options": ["The end of the fur trade", "Unity: a national dream linking Canada from sea to sea", "The defeat of the Métis", "Free trade with the United States"],
+      "answer": 1,
+      "explanation": "On November 7, 1885, a powerful symbol of unity was completed when Donald Smith (Lord Strathcona) drove the last spike. The CPR's \"ribbons of steel\" fulfilled a national dream.",
+      "ref": "Discover Canada, A Railway from Sea to Sea (p. 20)"
+    },
+    {
+      "id": "s07q11",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who drove the last spike of the Canadian Pacific Railway on November 7, 1885?",
+      "options": ["Sir John A. Macdonald", "Donald Smith (Lord Strathcona)", "Sir Wilfrid Laurier", "Sir Sandford Fleming"],
+      "answer": 1,
+      "explanation": "Donald Smith (Lord Strathcona), the Scottish-born director of the CPR, drove the last spike. The project was financed by British and American investors and built by European and Chinese labour.",
+      "ref": "Discover Canada, A Railway from Sea to Sea (p. 20)"
+    },
+    {
+      "id": "s07q12",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What was the Head Tax, and when did the Government of Canada apologize for it?",
+      "options": ["A tax on fur traders; apologized in 1885", "A race-based entry fee imposed on Chinese immigrants; apologized in 2006", "A tax on railway tickets; apologized in 1988", "A tax on Métis land; apologized in 2008"],
+      "answer": 1,
+      "explanation": "After the railway was built, the Chinese were subject to discrimination including the Head Tax, a race-based entry fee. The Government of Canada apologized in 2006 for this discriminatory policy.",
+      "ref": "Discover Canada, A Railway from Sea to Sea (p. 20)"
+    },
+    {
+      "id": "s07q13",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who was the first French-Canadian prime minister since Confederation?",
+      "options": ["Sir George-Étienne Cartier", "Sir Wilfrid Laurier", "Louis-Hippolyte La Fontaine", "Sir Robert Borden"],
+      "answer": 1,
+      "explanation": "Sir Wilfrid Laurier became the first French-Canadian prime minister since Confederation and encouraged immigration to the West. His portrait is on the $5 bill, and November 20 is Sir Wilfrid Laurier Day.",
+      "ref": "Discover Canada, Moving Westward (p. 20)"
+    },
+    {
+      "id": "s07q14",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Whose portrait is on the Canadian $5 bill, according to the guide?",
+      "options": ["Sir John A. Macdonald", "Sir Wilfrid Laurier", "Queen Elizabeth II", "Sir Robert Borden"],
+      "answer": 1,
+      "explanation": "Sir Wilfrid Laurier's portrait is on the $5 bill. Macdonald is on the $10 bill.",
+      "ref": "Discover Canada, Moving Westward (p. 20)"
+    },
+    {
+      "id": "s07q15",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who was the founder of the women's suffrage movement in Canada?",
+      "options": ["Agnes Macphail", "Dr. Emily Stowe", "Thérèse Casgrain", "Laura Secord"],
+      "answer": 1,
+      "explanation": "The founder of the women's suffrage movement in Canada was Dr. Emily Stowe, the first Canadian woman to practise medicine in Canada.",
+      "ref": "Discover Canada, Women Get the Vote (p. 21)"
+    },
+    {
+      "id": "s07q16",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which province was the first to grant voting rights to women, in 1916?",
+      "options": ["Ontario", "Quebec", "Manitoba", "Nova Scotia"],
+      "answer": 2,
+      "explanation": "In 1916 Manitoba became the first province to grant voting rights to women. Quebec was last, granting women the vote in 1940 thanks to the work of Thérèse Casgrain and others.",
+      "ref": "Discover Canada, Women Get the Vote (p. 21)"
+    },
+    {
+      "id": "s07q17",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1918, which group was granted the right to vote in federal elections?",
+      "options": ["All Canadians over 18", "Most Canadian female citizens aged 21 and over", "Aboriginal people", "Japanese-Canadians"],
+      "answer": 1,
+      "explanation": "In 1917 Sir Robert Borden's government gave the vote first to nurses at the front and women related to men in service. In 1918 most Canadian female citizens aged 21 and over were granted the right to vote in federal elections.",
+      "ref": "Discover Canada, Women Get the Vote (p. 21)"
+    },
+    {
+      "id": "s07q18",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who became the first woman MP in 1921?",
+      "options": ["Emily Stowe", "Agnes Macphail", "Thérèse Casgrain", "Mary Ann Shadd Cary"],
+      "answer": 1,
+      "explanation": "In 1921 Agnes Macphail, a farmer and teacher, became the first woman MP.",
+      "ref": "Discover Canada, Women Get the Vote (p. 21)"
+    },
+    {
+      "id": "s07q19",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: At the time of Confederation, the vote was limited to property-owning adult white males.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. At Confederation the vote was limited to property-owning adult white males, which was common in most democratic countries at the time.",
+      "ref": "Discover Canada, Women Get the Vote (p. 21)"
+    },
+    {
+      "id": "s07q20",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: One million British and one million Americans immigrated to Canada during the economic boom of the 1890s and early 1900s.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Canada's economy grew and industrialized during that boom, and one million British and one million Americans immigrated. The railway also brought 170,000 Ukrainians, 115,000 Poles and others to the West before 1914.",
+      "ref": "Discover Canada, Moving Westward (p. 20)"
+    }
+  ]
+}

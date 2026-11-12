@@ -1,0 +1,208 @@
+{
+  "id": "set15",
+  "title": "Law & Order",
+  "subtitle": "The justice system, courts, police, legal aid and the principles behind Canadian law",
+  "topics": ["Courts", "Police", "Due process", "Legal aid"],
+  "questions": [
+    {
+      "id": "s15q01",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What is the presumption of innocence?",
+      "options": ["Everyone is guilty until proven innocent", "Everyone is innocent until proven guilty", "Only citizens are presumed innocent", "Judges decide guilt before a trial"],
+      "answer": 1,
+      "explanation": "Our judicial system is founded on the presumption of innocence in criminal matters, meaning everyone is innocent until proven guilty.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q02",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What is \"due process\"?",
+      "options": ["The process for applying for citizenship", "The principle that the government must respect all the legal rights a person is entitled to under the law", "The way bills become law", "The process of counting ballots"],
+      "answer": 1,
+      "explanation": "Due process is the principle that the government must respect all the legal rights a person is entitled to under the law. The Canadian justice system guarantees everyone due process.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q03",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "Canada's legal system is based on a heritage that includes which of the following?",
+      "options": ["The rule of law, freedom under the law, democratic principles and due process", "Military rule and royal decree", "Trial by combat", "Majority rule without limits"],
+      "answer": 0,
+      "explanation": "Canada's legal system is based on a heritage that includes the rule of law, freedom under the law, democratic principles and due process.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q04",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What is the role of the courts in Canada?",
+      "options": ["To make laws", "To settle disputes", "To enforce the laws", "To elect judges"],
+      "answer": 1,
+      "explanation": "Laws are made by elected representatives. The courts settle disputes and the police enforce the laws. The law applies to everyone, including judges, politicians and the police.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q05",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What is Canada's highest court?",
+      "options": ["The Federal Court of Canada", "The Supreme Court of Canada", "The Court of Queen's Bench", "The Privy Council"],
+      "answer": 1,
+      "explanation": "The Supreme Court of Canada is our country's highest court. The Federal Court of Canada deals with matters concerning the federal government.",
+      "ref": "Discover Canada, Courts (p. 37)"
+    },
+    {
+      "id": "s15q06",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "Which court deals with matters concerning the federal government?",
+      "options": ["Small claims court", "The Federal Court of Canada", "Family court", "Traffic court"],
+      "answer": 1,
+      "explanation": "The Federal Court of Canada deals with matters concerning the federal government.",
+      "ref": "Discover Canada, Courts (p. 37)"
+    },
+    {
+      "id": "s15q07",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What are small claims courts for?",
+      "options": ["Serious criminal offences", "Civil cases involving small sums of money", "Appeals from the Supreme Court", "Immigration matters"],
+      "answer": 1,
+      "explanation": "There are provincial courts for lesser offences, family courts, traffic courts and small claims courts for civil cases involving small sums of money.",
+      "ref": "Discover Canada, Courts (p. 37)"
+    },
+    {
+      "id": "s15q08",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "Which two provinces have their own provincial police forces?",
+      "options": ["Alberta and British Columbia", "Ontario and Quebec", "Nova Scotia and New Brunswick", "Manitoba and Saskatchewan"],
+      "answer": 1,
+      "explanation": "There are provincial police forces in Ontario and Quebec. The RCMP serves as the provincial police in all other provinces and territories, as well as in some municipalities.",
+      "ref": "Discover Canada, Police (p. 37)"
+    },
+    {
+      "id": "s15q09",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What is the role of the Royal Canadian Mounted Police (RCMP)?",
+      "options": ["To enforce only traffic laws", "To enforce federal laws throughout Canada and serve as provincial police everywhere except Ontario and Quebec", "To guard Parliament only", "To serve as the army"],
+      "answer": 1,
+      "explanation": "The RCMP enforce federal laws throughout Canada, and serve as the provincial police in all provinces and territories except Ontario and Quebec, as well as in some municipalities.",
+      "ref": "Discover Canada, Police (p. 37)"
+    },
+    {
+      "id": "s15q10",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "In Canada, are you allowed to question the police about their service or conduct?",
+      "options": ["No, never", "Yes. Almost all police forces have a process for bringing your concerns to them and seeking action", "Only through a lawyer", "Only if you are a citizen"],
+      "answer": 1,
+      "explanation": "You can question the police about their service or conduct if you feel you need to. Almost all police forces in Canada have a process by which you can bring your concerns and seek action.",
+      "ref": "Discover Canada, Police (p. 37)"
+    },
+    {
+      "id": "s15q11",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "If you cannot afford a lawyer, what help is available?",
+      "options": ["None; you must represent yourself", "Legal aid services, available free of charge or at low cost in most communities", "The police will act as your lawyer", "The judge pays for your lawyer"],
+      "answer": 1,
+      "explanation": "Lawyers can help with legal problems and act for you in court. If you cannot pay, in most communities there are legal aid services available free of charge or at a low cost.",
+      "ref": "Discover Canada, Getting Legal Help (p. 37)"
+    },
+    {
+      "id": "s15q12",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What does the blindfolded Lady Justice symbolize?",
+      "options": ["That the law is secret", "The impartial manner in which laws are administered: blind to all considerations but the facts", "That judges do not see the accused", "That justice is slow"],
+      "answer": 1,
+      "explanation": "The blindfolded Lady Justice symbolizes the impartial manner in which our laws are administered: blind to all considerations but the facts.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q13",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "Who makes the laws in Canada?",
+      "options": ["Judges", "The police", "Elected representatives", "The Governor General alone"],
+      "answer": 2,
+      "explanation": "Laws are the written rules intended to guide people in our society. They are made by elected representatives.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q14",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "In most provinces, what is the trial court sometimes called?",
+      "options": ["The Court of Queen's (King's) Bench or the Supreme Court", "The Federal Court", "The Senate", "The Privy Council"],
+      "answer": 0,
+      "explanation": "In most provinces there is an appeal court and a trial court, sometimes called the Court of Queen's Bench (now King's Bench) or the Supreme Court.",
+      "ref": "Discover Canada, Courts (p. 37)"
+    },
+    {
+      "id": "s15q15",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "What are Canada's laws intended to do?",
+      "options": ["Punish immigrants", "Provide order in society, a peaceful way to settle disputes, and express the values and beliefs of Canadians", "Limit the rights of citizens", "Raise money for the government"],
+      "answer": 1,
+      "explanation": "Our laws are intended to provide order in society and a peaceful way to settle disputes, and to express the values and beliefs of Canadians.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q16",
+      "type": "tf",
+      "category": "Justice System",
+      "question": "True or false: The law in Canada applies to everyone, including judges, politicians and the police.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The law in Canada applies to everyone, including judges, politicians and the police. No one is above the law.",
+      "ref": "Discover Canada, The Justice System (p. 36)"
+    },
+    {
+      "id": "s15q17",
+      "type": "tf",
+      "category": "Justice System",
+      "question": "True or false: Prisons have an essential role in punishing criminals and deterring crime.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The guide states that prisons have an essential role in punishing criminals and deterring crime.",
+      "ref": "Discover Canada, The Justice System (p. 37)"
+    },
+    {
+      "id": "s15q18",
+      "type": "tf",
+      "category": "Justice System",
+      "question": "True or false: You should only contact the police if you have committed a crime yourself.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The police are there to keep people safe. You can ask for help after an accident, a theft, an assault, if you see a crime taking place, or if someone you know has gone missing.",
+      "ref": "Discover Canada, Police (p. 37)"
+    },
+    {
+      "id": "s15q19",
+      "type": "tf",
+      "category": "Justice System",
+      "question": "True or false: Municipal police departments exist in all provinces.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. There are municipal police departments in all provinces, and most major urban centres have municipal police forces.",
+      "ref": "Discover Canada, Police (p. 37)"
+    },
+    {
+      "id": "s15q20",
+      "type": "mc",
+      "category": "Justice System",
+      "question": "Why is serving on a jury described as a privilege?",
+      "options": ["Because jurors are paid very well", "Because the justice system depends on impartial juries made up of citizens", "Because only lawyers may serve", "Because it exempts you from voting"],
+      "answer": 1,
+      "explanation": "Serving on a jury is a privilege that makes the justice system work, as it depends on impartial juries made up of citizens. When called, you are legally required to serve.",
+      "ref": "Discover Canada, Citizenship Responsibilities (p. 9)"
+    }
+  ]
+}

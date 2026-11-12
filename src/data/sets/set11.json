@@ -1,0 +1,208 @@
+{
+  "id": "set11",
+  "title": "How Canada Is Governed",
+  "subtitle": "Federal state, parliamentary democracy and the three parts of Parliament",
+  "topics": ["Federalism", "Parliament", "Senate", "House of Commons"],
+  "questions": [
+    {
+      "id": "s11q01",
+      "type": "mc",
+      "category": "Government",
+      "question": "What are the three key facts about Canada's system of government?",
+      "options": ["It is a republic, a democracy and a union", "It is a federal state, a parliamentary democracy and a constitutional monarchy", "It is a confederation, a presidency and a monarchy", "It is a dominion, a colony and a kingdom"],
+      "answer": 1,
+      "explanation": "There are three key facts about Canada's system of government: our country is a federal state, a parliamentary democracy and a constitutional monarchy.",
+      "ref": "Discover Canada, How Canadians Govern Themselves (p. 28)"
+    },
+    {
+      "id": "s11q02",
+      "type": "mc",
+      "category": "Government",
+      "question": "In which document were the responsibilities of the federal and provincial governments defined in 1867?",
+      "options": ["The Charter of Rights and Freedoms", "The British North America Act, now the Constitution Act, 1867", "The Quebec Act", "The Statute of Westminster"],
+      "answer": 1,
+      "explanation": "The responsibilities of the federal and provincial governments were defined in 1867 in the British North America Act, now known as the Constitution Act, 1867.",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    },
+    {
+      "id": "s11q03",
+      "type": "mc",
+      "category": "Government",
+      "question": "Which of the following is a responsibility of the federal government?",
+      "options": ["Education", "Highways", "National defence, foreign policy, currency and citizenship", "Municipal government"],
+      "answer": 2,
+      "explanation": "The federal government handles matters of national and international concern: defence, foreign policy, interprovincial trade and communications, currency, navigation, criminal law and citizenship.",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    },
+    {
+      "id": "s11q04",
+      "type": "mc",
+      "category": "Government",
+      "question": "Which of the following is a provincial responsibility?",
+      "options": ["Criminal law", "Education, health care, natural resources and highways", "Currency", "Foreign policy"],
+      "answer": 1,
+      "explanation": "The provinces are responsible for municipal government, education, health, natural resources, property and civil rights, and highways.",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    },
+    {
+      "id": "s11q05",
+      "type": "mc",
+      "category": "Government",
+      "question": "Over which two areas do the federal government and the provinces share jurisdiction?",
+      "options": ["Defence and currency", "Agriculture and immigration", "Education and health", "Policing and citizenship"],
+      "answer": 1,
+      "explanation": "The federal government and the provinces share jurisdiction over agriculture and immigration. The responsibilities table also lists the environment as shared.",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    },
+    {
+      "id": "s11q06",
+      "type": "mc",
+      "category": "Government",
+      "question": "In Canada's parliamentary democracy, what are elected representatives responsible for?",
+      "options": ["Appointing judges", "Passing laws, approving and monitoring expenditures, and keeping the government accountable", "Choosing the Sovereign", "Running the provinces"],
+      "answer": 1,
+      "explanation": "The people elect members to the House of Commons and to provincial and territorial legislatures. These representatives pass laws, approve and monitor expenditures, and keep the government accountable.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q07",
+      "type": "mc",
+      "category": "Government",
+      "question": "What are the three parts of Parliament?",
+      "options": ["The Prime Minister, the Cabinet and the Supreme Court", "The Sovereign, the Senate and the House of Commons", "The Governor General, the Premier and the Mayor", "The House of Commons, the Senate and the Cabinet"],
+      "answer": 1,
+      "explanation": "Parliament has three parts: the Sovereign (King or Queen), the Senate and the House of Commons. Provincial legislatures comprise the Lieutenant Governor and the elected Assembly.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q08",
+      "type": "mc",
+      "category": "Government",
+      "question": "How are Senators chosen?",
+      "options": ["Elected by voters every four years", "Appointed by the Governor General on the advice of the Prime Minister", "Chosen by the provincial premiers", "Appointed by the Supreme Court"],
+      "answer": 1,
+      "explanation": "Senators are appointed by the Governor General on the advice of the Prime Minister and serve until age 75.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q09",
+      "type": "mc",
+      "category": "Government",
+      "question": "Until what age do Senators serve?",
+      "options": ["65", "70", "75", "For life"],
+      "answer": 2,
+      "explanation": "Senators serve until age 75.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q10",
+      "type": "mc",
+      "category": "Government",
+      "question": "How are members of Parliament chosen?",
+      "options": ["They are appointed by the United Nations", "They are chosen by the provincial premiers", "They are elected by voters in their local constituency (riding)", "They are elected by landowners and police chiefs"],
+      "answer": 2,
+      "explanation": "This is a sample question from the guide. The House of Commons is the representative chamber, made up of members of Parliament elected by the people, traditionally every four years.",
+      "ref": "Discover Canada, Study Questions (p. 52)"
+    },
+    {
+      "id": "s11q11",
+      "type": "mc",
+      "category": "Government",
+      "question": "What must happen before a bill can become law in Canada?",
+      "options": ["It must be approved by the Supreme Court", "It must be passed by both the House of Commons and the Senate and receive royal assent", "It must be approved in a national referendum", "It must be signed by all provincial premiers"],
+      "answer": 1,
+      "explanation": "No bill can become law until it has been passed by both chambers and has received royal assent, granted by the Governor General on behalf of the Sovereign.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q12",
+      "type": "mc",
+      "category": "Government",
+      "question": "What does it mean for Cabinet ministers to retain the \"confidence of the House\"?",
+      "options": ["They must be liked by the Governor General", "They must keep the support of the elected representatives, and resign if defeated in a non-confidence vote", "They must win re-election every year", "They must be approved by the Senate"],
+      "answer": 1,
+      "explanation": "Cabinet ministers are responsible to the elected representatives, which means they must retain the confidence of the House and have to resign if they are defeated in a non-confidence vote.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q13",
+      "type": "mc",
+      "category": "Government",
+      "question": "Who selects the Cabinet ministers and is responsible for the operations and policy of the government?",
+      "options": ["The Governor General", "The Prime Minister", "The Speaker of the House", "The Chief Justice"],
+      "answer": 1,
+      "explanation": "In the federal government the Prime Minister selects the Cabinet ministers and is responsible for the operations and policy of the government.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q14",
+      "type": "mc",
+      "category": "Government",
+      "question": "Members of a provincial legislature may be called MLAs, MNAs, MPPs or MHAs. What does MPP stand for?",
+      "options": ["Member of the Provincial Parliament", "Minister of Public Policy", "Member of the Premier's Party", "Municipal Police Prefect"],
+      "answer": 0,
+      "explanation": "Depending on the province, members are called members of the Legislative Assembly (MLAs), National Assembly (MNAs, in Quebec), Provincial Parliament (MPPs, in Ontario) or House of Assembly (MHAs, in Newfoundland and Labrador).",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s11q15",
+      "type": "mc",
+      "category": "Government",
+      "question": "What does federalism allow provinces to do?",
+      "options": ["Print their own currency", "Adopt policies tailored to their own populations and experiment with new ideas", "Declare war", "Issue passports"],
+      "answer": 1,
+      "explanation": "Federalism allows different provinces to adopt policies tailored to their own populations, and gives provinces the flexibility to experiment with new ideas and policies.",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    },
+    {
+      "id": "s11q16",
+      "type": "tf",
+      "category": "Government",
+      "question": "True or false: The three northern territories have the same status as provinces.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The three northern territories, which have small populations, do not have the status of provinces, but their governments and assemblies carry out many of the same functions.",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    },
+    {
+      "id": "s11q17",
+      "type": "tf",
+      "category": "Government",
+      "question": "True or false: Every province has its own elected Legislative Assembly, like the House of Commons in Ottawa.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Every province has its own elected Legislative Assembly, like the House of Commons in Ottawa.",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    },
+    {
+      "id": "s11q18",
+      "type": "tf",
+      "category": "Government",
+      "question": "True or false: Both the House of Commons and the Senate consider and review bills.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Both the House of Commons and the Senate consider and review bills (proposals for new laws).",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q19",
+      "type": "mc",
+      "category": "Government",
+      "question": "Members of the House of Commons are traditionally elected how often?",
+      "options": ["Every two years", "Every four years", "Every five years", "Every six years"],
+      "answer": 1,
+      "explanation": "The House of Commons is made up of members of Parliament elected by the people, traditionally every four years.",
+      "ref": "Discover Canada, Parliamentary Democracy (p. 28)"
+    },
+    {
+      "id": "s11q20",
+      "type": "mc",
+      "category": "Government",
+      "question": "What are the four levels of government mentioned in the guide?",
+      "options": ["Imperial, federal, provincial, local", "Federal, provincial, territorial and municipal", "Royal, parliamentary, judicial, executive", "National, regional, county, city"],
+      "answer": 1,
+      "explanation": "There are federal, provincial, territorial and municipal governments in Canada. The study question \"What are the three levels of government?\" is usually answered: federal, provincial/territorial and municipal (local).",
+      "ref": "Discover Canada, Federal State (p. 28)"
+    }
+  ]
+}

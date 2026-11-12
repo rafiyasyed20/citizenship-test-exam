@@ -1,0 +1,208 @@
+{
+  "id": "set08",
+  "title": "Canada at War",
+  "subtitle": "The Boer War, the First World War, Remembrance Day, the Depression and the Second World War",
+  "topics": ["Vimy Ridge", "Remembrance", "Great Depression", "D-Day"],
+  "questions": [
+    {
+      "id": "s08q01",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Over 7,000 Canadians volunteered to fight in which war from 1899 to 1902?",
+      "options": ["The Crimean War", "The South African War, popularly known as the Boer War", "The Korean War", "The Spanish-American War"],
+      "answer": 1,
+      "explanation": "Over 7,000 Canadians volunteered to fight in the South African War (1899–1902), popularly known as the Boer War, and over 260 died. Victories at Paardeberg and Lillefontein in 1900 strengthened national pride.",
+      "ref": "Discover Canada, The First World War (p. 20)"
+    },
+    {
+      "id": "s08q02",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "How many Canadians served in the First World War, out of a population of eight million?",
+      "options": ["More than 60,000", "More than 260,000", "More than 600,000", "More than one million"],
+      "answer": 2,
+      "explanation": "More than 600,000 Canadians served in the First World War, most of them volunteers, out of a total population of eight million. In total 60,000 were killed and 170,000 wounded.",
+      "ref": "Discover Canada, The First World War (p. 20)"
+    },
+    {
+      "id": "s08q03",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which April 1917 victory secured the Canadians' reputation as the \"shock troops of the British Empire\"?",
+      "options": ["The Battle of Amiens", "The Battle of Vimy Ridge", "The Battle of the Somme", "The Battle of Ypres"],
+      "answer": 1,
+      "explanation": "The Canadian Corps captured Vimy Ridge in April 1917, with 10,000 killed or wounded. One officer said: \"In those few minutes I witnessed the birth of a nation.\" April 9 is celebrated as Vimy Day.",
+      "ref": "Discover Canada, The First World War (p. 20)"
+    },
+    {
+      "id": "s08q04",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "On what date is Vimy Day observed?",
+      "options": ["April 9", "July 1", "November 11", "August 8"],
+      "answer": 0,
+      "explanation": "April 9 is celebrated as Vimy Day, honouring the Battle of Vimy Ridge of April 9, 1917, the first British victory of the First World War.",
+      "ref": "Discover Canada, The First World War (p. 20)"
+    },
+    {
+      "id": "s08q05",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who is described in the guide as \"Canada's greatest soldier,\" commanding the Canadian Corps in the last hundred days of 1918?",
+      "options": ["Sir Isaac Brock", "General Sir Arthur Currie", "Billy Bishop", "Sir Sam Steele"],
+      "answer": 1,
+      "explanation": "In 1918, under General Sir Arthur Currie, Canada's greatest soldier, the Canadian Corps advanced in the last hundred days, including the Battle of Amiens on August 8, 1918, which the Germans called \"the black day of the German Army.\"",
+      "ref": "Discover Canada, The First World War (p. 20)"
+    },
+    {
+      "id": "s08q06",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "From 1914 to 1920, Ottawa interned over 8,000 former Austro-Hungarian subjects as \"enemy aliens.\" Most were from which group?",
+      "options": ["German men", "Ukrainian men", "Italian men", "Japanese men"],
+      "answer": 1,
+      "explanation": "Regrettably, Ottawa interned over 8,000 former Austro-Hungarian subjects, mainly Ukrainian men, in 24 labour camps across Canada, even though Britain advised against the policy.",
+      "ref": "Discover Canada, The First World War (p. 20)"
+    },
+    {
+      "id": "s08q07",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What is the meaning of the Remembrance Day poppy?",
+      "options": ["To remember our Sovereign, Queen Elizabeth II", "To celebrate Confederation", "To honour prime ministers who have died", "To remember the sacrifice of Canadians who have served or died in wars up to the present day"],
+      "answer": 3,
+      "explanation": "This is a sample question from the guide. Canadians wear the red poppy on November 11 and observe a moment of silence at the 11th hour of the 11th day of the 11th month to honour over a million who served and the 110,000 who gave their lives.",
+      "ref": "Discover Canada, Study Questions (p. 52) and Remembrance Day (p. 22)"
+    },
+    {
+      "id": "s08q08",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who composed the poem \"In Flanders Fields\" in 1915?",
+      "options": ["Robert W. Service", "Lieutenant-Colonel John McCrae", "Stephen Leacock", "Pauline Johnson"],
+      "answer": 1,
+      "explanation": "Canadian medical officer Lieutenant-Colonel John McCrae composed \"In Flanders Fields\" in 1915. It is often recited on Remembrance Day.",
+      "ref": "Discover Canada, Remembrance Day (p. 22)"
+    },
+    {
+      "id": "s08q09",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "After the First World War, the British Empire evolved into a free association of states known as what?",
+      "options": ["The United Nations", "The British Commonwealth of Nations", "La Francophonie", "NATO"],
+      "answer": 1,
+      "explanation": "After the First World War the British Empire evolved into the British Commonwealth of Nations. Canada remains a leading member, with India, Australia, New Zealand and several African and Caribbean countries.",
+      "ref": "Discover Canada, Between the Wars (p. 22)"
+    },
+    {
+      "id": "s08q10",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What event led to the Great Depression, or \"Dirty Thirties\"?",
+      "options": ["The end of the fur trade", "The stock market crash of 1929", "The Spanish flu", "The creation of the Bank of Canada"],
+      "answer": 1,
+      "explanation": "The stock market crash of 1929 led to the Great Depression. Unemployment reached 27% in 1933 and farmers in Western Canada were hit hardest by low grain prices and drought.",
+      "ref": "Discover Canada, Between the Wars (p. 22)"
+    },
+    {
+      "id": "s08q11",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In what year was the Bank of Canada, the central bank, created?",
+      "options": ["1867", "1929", "1934", "1945"],
+      "answer": 2,
+      "explanation": "The Bank of Canada, a central bank to manage the money supply and bring stability to the financial system, was created in 1934.",
+      "ref": "Discover Canada, Between the Wars (p. 22)"
+    },
+    {
+      "id": "s08q12",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "How did the Second World War begin in 1939?",
+      "options": ["Japan attacked Pearl Harbor", "Adolf Hitler, the Nazi dictator of Germany, invaded Poland", "Germany attacked Belgium and France", "Italy invaded Ethiopia"],
+      "answer": 1,
+      "explanation": "The Second World War began in 1939 when Adolf Hitler, the National Socialist (Nazi) dictator of Germany, invaded Poland and conquered much of Europe. Canada joined its democratic allies to defeat tyranny.",
+      "ref": "Discover Canada, The Second World War (p. 22)"
+    },
+    {
+      "id": "s08q13",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "How many Canadians and Newfoundlanders served in the Second World War?",
+      "options": ["About 100,000", "About 600,000", "More than one million", "About five million"],
+      "answer": 2,
+      "explanation": "More than one million Canadians and Newfoundlanders served in the Second World War, out of a population of 11.5 million. Of these, 44,000 were killed.",
+      "ref": "Discover Canada, The Second World War (p. 22)"
+    },
+    {
+      "id": "s08q14",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "On D-Day, June 6, 1944, 15,000 Canadian troops stormed and captured which beach?",
+      "options": ["Omaha Beach", "Juno Beach", "Sword Beach", "Utah Beach"],
+      "answer": 1,
+      "explanation": "In the invasion of Normandy on June 6, 1944, 15,000 Canadian troops captured Juno Beach from the German Army. Approximately one in ten Allied soldiers on D-Day was Canadian.",
+      "ref": "Discover Canada, The D-Day Invasion (p. 23)"
+    },
+    {
+      "id": "s08q15",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which country did the Canadian Army liberate in 1944–45?",
+      "options": ["Belgium", "The Netherlands", "Denmark", "Norway"],
+      "answer": 1,
+      "explanation": "The Canadian Army liberated the Netherlands in 1944–45 and helped force the German surrender of May 8, 1945, ending six years of war in Europe.",
+      "ref": "Discover Canada, The D-Day Invasion (p. 23)"
+    },
+    {
+      "id": "s08q16",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In which battle did the Royal Canadian Navy see its \"finest hour\"?",
+      "options": ["The Battle of Britain", "The Battle of the Atlantic", "The Battle of Hong Kong", "The Battle of the Pacific"],
+      "answer": 1,
+      "explanation": "The Royal Canadian Navy saw its finest hour in the Battle of the Atlantic, protecting convoys of merchant ships against German submarines. At the end of the war Canada had the third-largest navy in the world.",
+      "ref": "Discover Canada, The Second World War (p. 22)"
+    },
+    {
+      "id": "s08q17",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1988, the Government of Canada apologized and compensated the victims of which wartime wrong?",
+      "options": ["The internment of Ukrainians in the First World War", "The forcible relocation of Canadians of Japanese origin and the sale of their property", "The Chinese Head Tax", "The residential schools"],
+      "answer": 1,
+      "explanation": "The state of war and public opinion in B.C. led to the forcible relocation of Japanese Canadians and the sale of their property without compensation, even though the military and RCMP said they posed little danger. The government apologized in 1988.",
+      "ref": "Discover Canada, The Second World War (p. 22)"
+    },
+    {
+      "id": "s08q18",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: Canada contributed more to the Allied air effort than any other Commonwealth country, training over 130,000 Allied air crew.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Canada contributed more to the Allied air effort than any other Commonwealth country, with over 130,000 Allied air crew trained in Canada under the British Commonwealth Air Training Plan.",
+      "ref": "Discover Canada, The Second World War (p. 22)"
+    },
+    {
+      "id": "s08q19",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: The First World War ended with the Armistice on November 11, 1918.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. With Germany and Austria's surrender, the war ended in the Armistice on November 11, 1918. That is why Remembrance Day falls on November 11.",
+      "ref": "Discover Canada, The First World War (p. 20)"
+    },
+    {
+      "id": "s08q20",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: Canadians took part in the successful defence of Hong Kong in 1941.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The Canadians fought bravely but suffered losses in the unsuccessful defence of Hong Kong in 1941 from Imperial Japan, and in the failed raid on Dieppe in 1942.",
+      "ref": "Discover Canada, The Second World War (p. 22)"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "set01",
+  "title": "The Oath & Your Rights",
+  "subtitle": "Applying for citizenship, the Oath, Charter rights and freedoms",
+  "topics": ["Oath", "Charter", "Freedoms"],
+  "questions": [
+    {
+      "id": "s01q01",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "In Canada, to whom or what do citizens profess their loyalty when they take the Oath of Citizenship?",
+      "options": ["The Constitution", "The Sovereign (the King or Queen)", "The national flag", "The Prime Minister"],
+      "answer": 1,
+      "explanation": "In Canada we profess our loyalty to a person who represents all Canadians, the Sovereign, and not to a document such as a constitution, a banner such as a flag, or a geopolitical entity. When the guide was written the Sovereign was Queen Elizabeth II; since September 2022 it is King Charles III, and the Oath now names the King.",
+      "ref": "Discover Canada, Understanding the Oath (p. 2)"
+    },
+    {
+      "id": "s01q02",
+      "type": "mc",
+      "category": "Applying for Citizenship",
+      "question": "Which group of adult applicants does NOT need to write the citizenship test?",
+      "options": ["Applicants aged 55 and over", "Applicants aged 18 to 54", "Applicants who speak French", "Applicants born in a Commonwealth country"],
+      "answer": 0,
+      "explanation": "Adult applicants 55 years of age and over do not need to write the citizenship test. Applicants aged 18 to 54 must show adequate knowledge of Canada and of English or French.",
+      "ref": "Discover Canada, Applying for Citizenship (p. 6)"
+    },
+    {
+      "id": "s01q03",
+      "type": "mc",
+      "category": "Applying for Citizenship",
+      "question": "What are the two basic requirements you are tested on in the citizenship test?",
+      "options": ["Knowledge of Canadian sports and geography", "Knowledge of Canada and of citizenship, plus adequate English or French", "Knowledge of the Constitution and of hockey rules", "Knowledge of your province and of the royal family"],
+      "answer": 1,
+      "explanation": "You are tested on 1) knowledge of Canada and of the rights and responsibilities of citizenship, and 2) adequate knowledge of English or French.",
+      "ref": "Discover Canada, About the Citizenship Test (p. 6)"
+    },
+    {
+      "id": "s01q04",
+      "type": "mc",
+      "category": "Applying for Citizenship",
+      "question": "What will you receive if you pass the test and meet all other requirements?",
+      "options": ["A Canadian passport in the mail", "A Notice to Appear to Take the Oath of Citizenship", "A voter information card", "A Permanent Resident card"],
+      "answer": 1,
+      "explanation": "If you pass the test and meet all other requirements you receive a Notice to Appear to Take the Oath of Citizenship, which tells you the date, time and place of your ceremony.",
+      "ref": "Discover Canada, After the Test (p. 7)"
+    },
+    {
+      "id": "s01q05",
+      "type": "mc",
+      "category": "Applying for Citizenship",
+      "question": "Which of these happens at the citizenship ceremony?",
+      "options": ["You write the knowledge test", "You take the Oath, sign the oath form and receive your Citizenship Certificate", "You receive your voter information card", "You are interviewed about your language skills"],
+      "answer": 1,
+      "explanation": "At the ceremony you take the Oath of Citizenship, sign the oath form and receive your Canadian Citizenship Certificate. Family and friends are encouraged to come and celebrate.",
+      "ref": "Discover Canada, After the Test (p. 7)"
+    },
+    {
+      "id": "s01q06",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Canada's 800-year-old tradition of ordered liberty dates back to the signing of which document in England?",
+      "options": ["The British North America Act", "The Quebec Act", "Magna Carta (the Great Charter of Freedoms)", "The Constitutional Act"],
+      "answer": 2,
+      "explanation": "Magna Carta, also known as the Great Charter of Freedoms, was signed in 1215 in England. It is the root of the freedoms of conscience and religion, of thought and expression, of peaceful assembly and of association.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q07",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "In what year was Magna Carta signed?",
+      "options": ["1066", "1215", "1497", "1867"],
+      "answer": 1,
+      "explanation": "Magna Carta was signed in 1215, giving Canada an 800-year-old tradition of ordered liberty.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q08",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "What is habeas corpus?",
+      "options": ["The right to vote in federal elections", "The right to challenge unlawful detention by the state", "The right to apply for a passport", "The right to free education"],
+      "answer": 1,
+      "explanation": "Habeas corpus is the right to challenge unlawful detention by the state. It comes from English common law.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q09",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "In what year was the Constitution of Canada amended to entrench the Canadian Charter of Rights and Freedoms?",
+      "options": ["1867", "1931", "1982", "1995"],
+      "answer": 2,
+      "explanation": "The Constitution was amended in 1982 to entrench the Charter of Rights and Freedoms. Queen Elizabeth II proclaimed the amended Constitution in Ottawa that year.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q10",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "The Charter of Rights and Freedoms begins with the words: \"Whereas Canada is founded upon principles that recognize...\"",
+      "options": ["...the supremacy of God and the rule of law.\"", "...peace, order and good government.\"", "...liberty, equality and fraternity.\"", "...the will of the people.\""],
+      "answer": 0,
+      "explanation": "The Charter opens with: \"Whereas Canada is founded upon principles that recognize the supremacy of God and the rule of law.\" The phrase underlines the importance of religious traditions and the dignity of the human person.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q11",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Which of the following is one of the four fundamental freedoms named in the guide?",
+      "options": ["Freedom from taxation", "Freedom of peaceful assembly", "Freedom to own land", "Freedom from jury duty"],
+      "answer": 1,
+      "explanation": "The fundamental freedoms are: freedom of conscience and religion; freedom of thought, belief, opinion and expression (including speech and press); freedom of peaceful assembly; and freedom of association.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q12",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "What do Mobility Rights allow Canadians to do?",
+      "options": ["Drive without a licence in any province", "Live and work anywhere in Canada, enter and leave freely, and apply for a passport", "Vote in any province's election", "Run for Parliament at age 16"],
+      "answer": 1,
+      "explanation": "Mobility Rights mean Canadians can live and work anywhere they choose in Canada, enter and leave the country freely, and apply for a passport.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q13",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Which statement about Official Language Rights is correct?",
+      "options": ["English has priority over French in Parliament", "French and English have equal status in Parliament and throughout the government", "Only the province of Quebec may use French officially", "Each province chooses one official language"],
+      "answer": 1,
+      "explanation": "Official Language Rights and Minority Language Educational Rights mean French and English have equal status in Parliament and throughout the federal government.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q14",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Name two key documents that contain our rights and freedoms.",
+      "options": ["Magna Carta and the Canadian Charter of Rights and Freedoms", "The Quebec Act and the Indian Act", "The Oath of Citizenship and the national anthem", "The Citizenship Act and the Criminal Code"],
+      "answer": 0,
+      "explanation": "The guide points to Magna Carta (1215), the source of our fundamental freedoms, and the Canadian Charter of Rights and Freedoms, entrenched in the Constitution in 1982.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8) and Study Questions (p. 52)"
+    },
+    {
+      "id": "s01q15",
+      "type": "tf",
+      "category": "Rights & Responsibilities",
+      "question": "True or false: Multiculturalism is described in the guide as a fundamental characteristic of Canadian heritage and identity.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Multiculturalism is listed among the Charter's important rights as a fundamental characteristic of the Canadian heritage and identity. Canadians work hard to respect pluralism and live in harmony.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q16",
+      "type": "tf",
+      "category": "Rights & Responsibilities",
+      "question": "True or false: The rights guaranteed in the Charter can override existing Aboriginal treaty rights.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Aboriginal Peoples' Rights mean that the rights guaranteed in the Charter will not adversely affect any treaty or other rights or freedoms of Aboriginal peoples.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q17",
+      "type": "tf",
+      "category": "Applying for Citizenship",
+      "question": "True or false: The citizenship test is always a written test and can never be an interview.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The citizenship test is usually a written test, but it could be an interview. Today most applicants write it online.",
+      "ref": "Discover Canada, About the Citizenship Test (p. 6)"
+    },
+    {
+      "id": "s01q18",
+      "type": "tf",
+      "category": "Rights & Responsibilities",
+      "question": "True or false: Canadian law has several sources, including English common law, the civil code of France and the unwritten constitution inherited from Great Britain.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Canadian law comes from laws passed by Parliament and the provincial legislatures, English common law, the civil code of France, and the unwritten constitution inherited from Great Britain.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s01q19",
+      "type": "mc",
+      "category": "Applying for Citizenship",
+      "question": "Immigrants in which age range must have adequate knowledge of English or French to become citizens?",
+      "options": ["14 to 64", "18 to 54", "21 to 60", "All ages"],
+      "answer": 1,
+      "explanation": "Immigrants between the ages of 18 and 54 must have adequate knowledge of English or French. Adult applicants 55 and over are exempted.",
+      "ref": "Discover Canada, Welcome (p. 3)"
+    },
+    {
+      "id": "s01q20",
+      "type": "tf",
+      "category": "Rights & Responsibilities",
+      "question": "True or false: Freedom of the press is included within the freedom of thought, belief, opinion and expression.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Freedom of thought, belief, opinion and expression includes freedom of speech and of the press.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    }
+  ]
+}

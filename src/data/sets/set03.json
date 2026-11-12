@@ -1,0 +1,208 @@
+{
+  "id": "set03",
+  "title": "Three Peoples, Many Cultures",
+  "subtitle": "Aboriginal peoples, English and French, and diversity in Canada",
+  "topics": ["First Nations", "Inuit", "Métis", "Languages", "Diversity"],
+  "questions": [
+    {
+      "id": "s03q01",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "From where are the ancestors of Aboriginal peoples believed to have migrated many thousands of years ago?",
+      "options": ["Europe", "Asia", "Africa", "South America"],
+      "answer": 1,
+      "explanation": "The ancestors of Aboriginal peoples are believed to have migrated from Asia many thousands of years ago, and were well established long before European explorers arrived.",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q02",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Which document first guaranteed Aboriginal territorial rights and established the basis for negotiating treaties?",
+      "options": ["The Quebec Act of 1774", "The Royal Proclamation of 1763 by King George III", "The Constitution Act of 1982", "The Indian Act of 1876"],
+      "answer": 1,
+      "explanation": "Territorial rights were first guaranteed through the Royal Proclamation of 1763 by King George III. It established the basis for negotiating treaties with the newcomers, treaties that were not always fully respected.",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q03",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "In what year did Ottawa formally apologize to former students of residential schools?",
+      "options": ["1988", "1998", "2006", "2008"],
+      "answer": 3,
+      "explanation": "From the 1800s until the 1980s the federal government placed many Aboriginal children in residential schools. The schools were poorly funded and inflicted hardship; in 2008 Ottawa formally apologized to the former students.",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q04",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "The term Aboriginal peoples refers to which three distinct groups?",
+      "options": ["Cree, Dene and Sioux", "First Nations (Indian), Inuit and Métis", "Huron, Iroquois and Algonquin", "Acadians, Quebecers and Inuit"],
+      "answer": 1,
+      "explanation": "Today the term Aboriginal peoples refers to three distinct groups: Indian (First Nations), Inuit and Métis. About 65% are First Nations, 30% Métis and 4% Inuit.",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q05",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "What does the word \"Inuit\" mean in the Inuktitut language?",
+      "options": ["The hunters", "The people", "Our land", "The North"],
+      "answer": 1,
+      "explanation": "Inuit means \"the people\" in Inuktitut. The Inuit live in small, scattered communities across the Arctic. (Nunavut, by contrast, means \"our land.\")",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q06",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Who are the Métis?",
+      "options": ["People of mixed Aboriginal and European ancestry, most living in the Prairie provinces", "Descendants of French colonists in the Maritimes", "First Nations people living on reserves", "Inuit who moved to southern cities"],
+      "answer": 0,
+      "explanation": "The Métis are a distinct people of mixed Aboriginal and European ancestry, the majority of whom live in the Prairie provinces. They come from both French- and English-speaking backgrounds and speak their own dialect, Michif.",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q07",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "What is the name of the dialect spoken by the Métis?",
+      "options": ["Inuktitut", "Cree", "Michif", "Acadian French"],
+      "answer": 2,
+      "explanation": "The Métis speak their own dialect, Michif, reflecting their mixed French, English and Aboriginal heritage.",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q08",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "About what share of First Nations people live on reserve land today?",
+      "options": ["About one-tenth", "About one-quarter", "About half", "Nearly all"],
+      "answer": 2,
+      "explanation": "About half of First Nations people live on reserve land in about 600 communities, while the other half live off-reserve, mainly in urban centres.",
+      "ref": "Discover Canada, Aboriginal Peoples (p. 10)"
+    },
+    {
+      "id": "s03q09",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Approximately how many Anglophones and Francophones are there in Canada according to the guide?",
+      "options": ["18 million Anglophones and 7 million Francophones", "25 million Anglophones and 2 million Francophones", "10 million Anglophones and 10 million Francophones", "30 million Anglophones and 1 million Francophones"],
+      "answer": 0,
+      "explanation": "The guide says there are 18 million Anglophones (English as a first language) and seven million Francophones (French as a first language). Most Francophones live in Quebec, with one million in Ontario, New Brunswick and Manitoba.",
+      "ref": "Discover Canada, English and French (p. 11)"
+    },
+    {
+      "id": "s03q10",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Which is the only officially bilingual province in Canada?",
+      "options": ["Quebec", "Ontario", "New Brunswick", "Manitoba"],
+      "answer": 2,
+      "explanation": "New Brunswick is the only officially bilingual province. About one-third of its population lives and works in French.",
+      "ref": "Discover Canada, English and French (p. 11)"
+    },
+    {
+      "id": "s03q11",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Who are the Acadians?",
+      "options": ["Descendants of French colonists who began settling in the Maritime provinces in 1604", "English settlers of Newfoundland", "Loyalists who fled the American Revolution", "Métis of the Red River"],
+      "answer": 0,
+      "explanation": "The Acadians are the descendants of French colonists who began settling in what are now the Maritime provinces in 1604. Between 1755 and 1763 more than two-thirds were deported, an ordeal known as the Great Upheaval.",
+      "ref": "Discover Canada, English and French (p. 11)"
+    },
+    {
+      "id": "s03q12",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "What is the \"Great Upheaval\"?",
+      "options": ["The 1837 rebellions in Upper and Lower Canada", "The deportation of more than two-thirds of the Acadians between 1755 and 1763", "The 1929 stock market crash", "The 1885 Métis rebellion"],
+      "answer": 1,
+      "explanation": "During the war between Britain and France, between 1755 and 1763, more than two-thirds of the Acadians were deported from their homeland. Despite this ordeal, known as the Great Upheaval, Acadian culture survived and flourishes today.",
+      "ref": "Discover Canada, English and French (p. 11)"
+    },
+    {
+      "id": "s03q13",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "In 2006, the House of Commons recognized that the Québécois form what?",
+      "options": ["A separate country", "A nation within a united Canada", "An official bilingual province", "A territory"],
+      "answer": 1,
+      "explanation": "The House of Commons recognized in 2006 that the Québécois form a nation within a united Canada. Most Quebecers are descendants of 8,500 French settlers from the 1600s and 1700s.",
+      "ref": "Discover Canada, English and French (p. 11)"
+    },
+    {
+      "id": "s03q14",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Since the 1970s, most immigrants to Canada have come from which part of the world?",
+      "options": ["Europe", "Asia", "South America", "Africa"],
+      "answer": 1,
+      "explanation": "Since the 1970s, most immigrants have come from Asian countries. The largest ethnic groups overall are English, French, Scottish, Irish, German, Italian, Chinese, Aboriginal, Ukrainian, Dutch, South Asian and Scandinavian.",
+      "ref": "Discover Canada, Diversity in Canada (p. 12)"
+    },
+    {
+      "id": "s03q15",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "What is the largest religious affiliation in Canada?",
+      "options": ["Protestant", "Catholic", "Muslim", "No religion"],
+      "answer": 1,
+      "explanation": "The great majority of Canadians identify as Christians. The largest religious affiliation is Catholic, followed by various Protestant churches. Other religions and \"no religion\" are also growing.",
+      "ref": "Discover Canada, Diversity in Canada (p. 13)"
+    },
+    {
+      "id": "s03q16",
+      "type": "tf",
+      "category": "Who We Are",
+      "question": "True or false: Chinese languages are the second most-spoken languages at home, after English, in Vancouver and Toronto.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Chinese languages are the second most-spoken at home after English in two of Canada's biggest cities: 13% in Vancouver and 7% in Toronto.",
+      "ref": "Discover Canada, Diversity in Canada (p. 12)"
+    },
+    {
+      "id": "s03q17",
+      "type": "tf",
+      "category": "Who We Are",
+      "question": "True or false: The majority of Canadians were born outside Canada.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. The majority of Canadians were born in this country, and this has been true since the 1800s. Canada is still called a land of immigrants because millions of newcomers have helped build it over 200 years.",
+      "ref": "Discover Canada, Diversity in Canada (p. 12)"
+    },
+    {
+      "id": "s03q18",
+      "type": "tf",
+      "category": "Who We Are",
+      "question": "True or false: Gay and lesbian Canadians enjoy the full protection of and equal treatment under the law, including access to civil marriage.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Canada's diversity includes gay and lesbian Canadians, who enjoy full protection and equal treatment under the law, including access to civil marriage.",
+      "ref": "Discover Canada, Diversity in Canada (p. 13)"
+    },
+    {
+      "id": "s03q19",
+      "type": "mc",
+      "category": "Who We Are",
+      "question": "Why are Anglophones generally referred to as \"English Canadians\"?",
+      "options": ["Because they were all born in England", "Because the way of life in English-speaking areas was established by English, Welsh, Scottish and Irish settlers", "Because English is the only official language", "Because of a law passed in 1867"],
+      "answer": 1,
+      "explanation": "The basic way of life in English-speaking areas was established by hundreds of thousands of English, Welsh, Scottish and Irish settlers, soldiers and migrants from the 1600s to the 20th century, which is why Anglophones are generally called English Canadians.",
+      "ref": "Discover Canada, Becoming Canadian (p. 12)"
+    },
+    {
+      "id": "s03q20",
+      "type": "tf",
+      "category": "Who We Are",
+      "question": "True or false: The federal government is required by law to provide services throughout Canada in English and French.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. English and French are the country's official languages, and the federal government is required by law to provide services throughout Canada in both.",
+      "ref": "Discover Canada, English and French (p. 11)"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "set19",
+  "title": "Heartland to the Pacific",
+  "subtitle": "Central Canada, the Prairie Provinces and the West Coast",
+  "topics": ["Ontario", "Quebec", "Prairies", "British Columbia"],
+  "questions": [
+    {
+      "id": "s19q01",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "More than half the people in Canada live in which region, known as the industrial and manufacturing heartland?",
+      "options": ["The Prairie Provinces", "Central Canada (southern Quebec and Ontario)", "The West Coast", "The Atlantic Provinces"],
+      "answer": 1,
+      "explanation": "More than half the people in Canada live in cities and towns near the Great Lakes and the St. Lawrence River in southern Quebec and Ontario, known as Central Canada. Together Ontario and Quebec produce more than three-quarters of all Canadian manufactured goods.",
+      "ref": "Discover Canada, Central Canada (p. 47)"
+    },
+    {
+      "id": "s19q02",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which province is Canada's main producer of pulp and paper and its largest producer of hydro-electricity?",
+      "options": ["Ontario", "Quebec", "British Columbia", "Manitoba"],
+      "answer": 1,
+      "explanation": "Quebec is Canada's main producer of pulp and paper, and its huge supply of fresh water has made it Canada's largest producer of hydro-electricity. Quebecers are also leaders in pharmaceuticals and aeronautics.",
+      "ref": "Discover Canada, Quebec (p. 47)"
+    },
+    {
+      "id": "s19q03",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which city is Canada's second largest and the second largest mainly French-speaking city in the world after Paris?",
+      "options": ["Québec City", "Ottawa", "Montreal", "Moncton"],
+      "answer": 2,
+      "explanation": "Montreal, Canada's second largest city and the second largest mainly French-speaking city in the world after Paris, is famous for its cultural diversity.",
+      "ref": "Discover Canada, Quebec (p. 47)"
+    },
+    {
+      "id": "s19q04",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What is the capital city of Quebec?",
+      "options": ["Montreal", "Québec City", "Gatineau", "Laval"],
+      "answer": 1,
+      "explanation": "Québec City is the capital of the province of Quebec. Montreal is its largest city.",
+      "ref": "Discover Canada, Canada's Regions map (p. 44)"
+    },
+    {
+      "id": "s19q05",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "The people of Ontario make up roughly what share of Canadians?",
+      "options": ["One-tenth", "One-quarter", "More than one-third", "One-half"],
+      "answer": 2,
+      "explanation": "At more than 12 million, the people of Ontario make up more than one-third of Canadians. Toronto is the largest city in Canada and the country's main financial centre.",
+      "ref": "Discover Canada, Ontario (p. 48)"
+    },
+    {
+      "id": "s19q06",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which is the largest freshwater lake in the world?",
+      "options": ["Lake Ontario", "Lake Huron", "Lake Superior", "Lake Erie"],
+      "answer": 2,
+      "explanation": "There are five Great Lakes between Ontario and the United States: Ontario, Erie, Huron, Michigan (in the U.S.A.) and Superior, the largest freshwater lake in the world.",
+      "ref": "Discover Canada, Ontario (p. 48)"
+    },
+    {
+      "id": "s19q07",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which region of Ontario is known for its vineyards, wines and fruit crops?",
+      "options": ["Muskoka", "The Niagara region", "Thunder Bay", "The Ottawa Valley"],
+      "answer": 1,
+      "explanation": "The Niagara region is known for its vineyards, wines and fruit crops. Ontario also has the largest French-speaking population outside Quebec.",
+      "ref": "Discover Canada, Ontario (p. 48)"
+    },
+    {
+      "id": "s19q08",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which three provinces are the Prairie Provinces?",
+      "options": ["Ontario, Manitoba and Saskatchewan", "Manitoba, Saskatchewan and Alberta", "Saskatchewan, Alberta and British Columbia", "Manitoba, Alberta and Yukon"],
+      "answer": 1,
+      "explanation": "Manitoba, Saskatchewan and Alberta are the Prairie Provinces, rich in energy resources and some of the most fertile farmland in the world. The region is mostly dry, with cold winters and hot summers.",
+      "ref": "Discover Canada, The Prairie Provinces (p. 48)"
+    },
+    {
+      "id": "s19q09",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which city is home to Portage and Main, the most famous street intersection in Canada?",
+      "options": ["Regina", "Winnipeg", "Calgary", "Edmonton"],
+      "answer": 1,
+      "explanation": "Winnipeg, Manitoba's most populous city and capital, has an Exchange District that includes Portage and Main. Its French Quarter, St. Boniface, has Western Canada's largest Francophone community.",
+      "ref": "Discover Canada, Manitoba (p. 48)"
+    },
+    {
+      "id": "s19q10",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which province has the largest Aboriginal population of any province, at over 15%?",
+      "options": ["British Columbia", "Manitoba", "Saskatchewan", "Alberta"],
+      "answer": 1,
+      "explanation": "Manitoba has the largest Aboriginal population of any province at over 15%, and is an important centre of Ukrainian culture, with 14% reporting Ukrainian origins.",
+      "ref": "Discover Canada, Manitoba (p. 48)"
+    },
+    {
+      "id": "s19q11",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which province was once known as the \"breadbasket of the world\" and has 40% of the arable land in Canada?",
+      "options": ["Manitoba", "Saskatchewan", "Alberta", "Ontario"],
+      "answer": 1,
+      "explanation": "Saskatchewan, the \"breadbasket of the world\" and the \"wheat province,\" has 40% of Canada's arable land and is the largest producer of grains and oilseeds. It also has the world's richest deposits of uranium and potash.",
+      "ref": "Discover Canada, Saskatchewan (p. 48)"
+    },
+    {
+      "id": "s19q12",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which city is home to the training academy of the Royal Canadian Mounted Police?",
+      "options": ["Saskatoon", "Regina", "Ottawa", "Calgary"],
+      "answer": 1,
+      "explanation": "Regina, the capital of Saskatchewan, is home to the RCMP training academy. Saskatoon is the largest city and headquarters of the mining industry.",
+      "ref": "Discover Canada, Saskatchewan (p. 48)"
+    },
+    {
+      "id": "s19q13",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Alberta and Lake Louise were named after whom?",
+      "options": ["Queen Victoria", "Princess Louise Caroline Alberta, fourth daughter of Queen Victoria", "Prince Albert, Queen Victoria's husband", "Queen Louise of Denmark"],
+      "answer": 1,
+      "explanation": "Alberta, the most populous Prairie province, and Lake Louise in the Rocky Mountains were both named after Princess Louise Caroline Alberta, fourth daughter of Queen Victoria.",
+      "ref": "Discover Canada, Alberta (p. 49)"
+    },
+    {
+      "id": "s19q14",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which province is Canada's largest producer of oil and gas?",
+      "options": ["Saskatchewan", "Alberta", "Newfoundland and Labrador", "British Columbia"],
+      "answer": 1,
+      "explanation": "Alberta is the largest producer of oil and gas, and the oil sands in the north are a major energy source. Alberta's vast cattle ranches make Canada one of the world's major beef producers. Banff National Park was established there in 1885.",
+      "ref": "Discover Canada, Alberta (p. 49)"
+    },
+    {
+      "id": "s19q15",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What is the capital of Alberta?",
+      "options": ["Calgary", "Edmonton", "Banff", "Red Deer"],
+      "answer": 1,
+      "explanation": "Edmonton is the capital of Alberta. Manitoba's capital is Winnipeg and Saskatchewan's is Regina.",
+      "ref": "Discover Canada, Canada's Regions map (p. 44)"
+    },
+    {
+      "id": "s19q16",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which is Canada's largest and busiest port, its gateway to the Asia-Pacific?",
+      "options": ["The Port of Halifax", "The Port of Montreal", "The Port of Vancouver", "The Port of Saint John"],
+      "answer": 2,
+      "explanation": "The Port of Vancouver, Canada's largest and busiest, handles billions of dollars in goods and is our gateway to the Asia-Pacific. British Columbia is known for its majestic mountains and as Canada's Pacific gateway.",
+      "ref": "Discover Canada, The West Coast (p. 49)"
+    },
+    {
+      "id": "s19q17",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What is the capital of British Columbia?",
+      "options": ["Vancouver", "Victoria", "Kelowna", "Prince George"],
+      "answer": 1,
+      "explanation": "Victoria, the capital of B.C., is a tourist centre and headquarters of the navy's Pacific fleet. Vancouver is the largest city.",
+      "ref": "Discover Canada, British Columbia (p. 49)"
+    },
+    {
+      "id": "s19q18",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: About one-half of all the goods produced in British Columbia are forestry products.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. About one-half of all goods produced in B.C. are forestry products, including lumber, newsprint and pulp and paper, the most valuable forestry industry in Canada. B.C. also has the most extensive park system, with about 600 provincial parks.",
+      "ref": "Discover Canada, British Columbia (p. 49)"
+    },
+    {
+      "id": "s19q19",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: In British Columbia's cities, Chinese and Punjabi are the most spoken languages after English.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. B.C.'s large Asian communities have made Chinese and Punjabi the most spoken languages in the cities after English.",
+      "ref": "Discover Canada, British Columbia (p. 49)"
+    },
+    {
+      "id": "s19q20",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: Ontario was founded by United Empire Loyalists.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Ontario was founded by United Empire Loyalists, as was New Brunswick. Ontario also has the largest French-speaking population outside Quebec.",
+      "ref": "Discover Canada, Ontario (p. 48)"
+    }
+  ]
+}

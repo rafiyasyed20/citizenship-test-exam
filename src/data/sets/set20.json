@@ -1,0 +1,208 @@
+{
+  "id": "set20",
+  "title": "The North & Final Round",
+  "subtitle": "The three territories, then a mixed finale across the whole guide",
+  "topics": ["Nunavut", "N.W.T.", "Yukon", "Mixed review"],
+  "questions": [
+    {
+      "id": "s20q01",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What does \"Nunavut\" mean in Inuktitut?",
+      "options": ["The people", "Our land", "Land of the midnight sun", "Frozen sea"],
+      "answer": 1,
+      "explanation": "Nunavut means \"our land\" in Inuktitut. It was established in 1999 from the eastern part of the Northwest Territories. The population is about 85% Inuit and Inuktitut is an official language.",
+      "ref": "Discover Canada, Nunavut (p. 50)"
+    },
+    {
+      "id": "s20q02",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What is the capital of Nunavut, and what was it formerly called?",
+      "options": ["Yellowknife, formerly Fort Resolution", "Iqaluit, formerly Frobisher Bay", "Whitehorse, formerly Dawson", "Rankin Inlet, formerly Keewatin"],
+      "answer": 1,
+      "explanation": "The capital of Nunavut is Iqaluit, formerly Frobisher Bay, named after the English explorer Martin Frobisher, who penetrated the uncharted Arctic for Queen Elizabeth I in 1576.",
+      "ref": "Discover Canada, Nunavut (p. 50)"
+    },
+    {
+      "id": "s20q03",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "How does Nunavut's 19-member Legislative Assembly choose its premier and ministers?",
+      "options": ["By party election", "By consensus", "By appointment from Ottawa", "By lottery"],
+      "answer": 1,
+      "explanation": "The 19-member Legislative Assembly of Nunavut chooses a premier and ministers by consensus rather than through political parties.",
+      "ref": "Discover Canada, Nunavut (p. 50)"
+    },
+    {
+      "id": "s20q04",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Which territorial capital is called the \"diamond capital of North America\"?",
+      "options": ["Iqaluit", "Yellowknife", "Whitehorse", "Dawson City"],
+      "answer": 1,
+      "explanation": "Yellowknife (population 20,000), capital of the Northwest Territories, is called the diamond capital of North America. More than half the N.W.T. population is Aboriginal (Dene, Inuit and Métis).",
+      "ref": "Discover Canada, Northwest Territories (p. 50)"
+    },
+    {
+      "id": "s20q05",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "At 4,200 kilometres, which is the second-longest river system in North America?",
+      "options": ["The St. Lawrence River", "The Mackenzie River", "The Fraser River", "The Yukon River"],
+      "answer": 1,
+      "explanation": "The Mackenzie River, at 4,200 kilometres, is the second-longest river system in North America after the Mississippi and drains an area of 1.8 million square kilometres.",
+      "ref": "Discover Canada, Northwest Territories (p. 50)"
+    },
+    {
+      "id": "s20q06",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Why is the North often referred to as the \"Land of the Midnight Sun\"?",
+      "options": ["Because the sun is red at night", "Because at the height of summer daylight can last up to 24 hours", "Because of the northern lights", "Because the sun never rises in summer"],
+      "answer": 1,
+      "explanation": "At the height of summer, daylight can last up to 24 hours. In winter the sun disappears and darkness sets in for three months. The territories hold one-third of Canada's land mass but only about 100,000 people.",
+      "ref": "Discover Canada, The Northern Territories (p. 50)"
+    },
+    {
+      "id": "s20q07",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Thousands of miners came to the Yukon during the Gold Rush of which decade, celebrated in the poetry of Robert W. Service?",
+      "options": ["1850s", "1870s", "1890s", "1920s"],
+      "answer": 2,
+      "explanation": "Thousands of miners came to the Yukon during the Gold Rush of the 1890s, as celebrated in the poetry of Robert W. Service. The White Pass and Yukon Railway opened from Skagway, Alaska, to Whitehorse in 1900.",
+      "ref": "Discover Canada, Yukon (p. 50)"
+    },
+    {
+      "id": "s20q08",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Where is Mount Logan, the highest mountain in Canada?",
+      "options": ["Alberta", "British Columbia", "Yukon", "Nunavut"],
+      "answer": 2,
+      "explanation": "Mount Logan, in the Yukon, is the highest mountain in Canada. It is named for Sir William Logan, who founded the Geological Survey of Canada. Yukon also holds the record for Canada's coldest temperature (-63°C).",
+      "ref": "Discover Canada, Yukon (p. 51)"
+    },
+    {
+      "id": "s20q09",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "Who are the Canadian Rangers?",
+      "options": ["A national park service", "Part of the Canadian Forces Reserves who patrol the Arctic drawing on indigenous knowledge", "The RCMP's northern division", "A hockey team"],
+      "answer": 1,
+      "explanation": "The Canadian Rangers, part of the Canadian Forces Reserves (militia), draw on indigenous knowledge and travel by snowmobile and all-terrain vehicle from Resolute to the Magnetic North Pole, keeping the flag flying in Canada's Arctic.",
+      "ref": "Discover Canada, The Canadian Rangers (p. 51)"
+    },
+    {
+      "id": "s20q10",
+      "type": "mc",
+      "category": "Canada's Regions",
+      "question": "What is the capital of Yukon?",
+      "options": ["Dawson City", "Whitehorse", "Yellowknife", "Iqaluit"],
+      "answer": 1,
+      "explanation": "Whitehorse is the capital of Yukon. Yellowknife is the capital of the Northwest Territories, and Iqaluit of Nunavut.",
+      "ref": "Discover Canada, Canada's Regions map (p. 44)"
+    },
+    {
+      "id": "s20q11",
+      "type": "mc",
+      "category": "Rights & Responsibilities",
+      "question": "Identify four rights that Canadians enjoy.",
+      "options": ["Free housing, free cars, free food, free travel", "Mobility rights, Aboriginal peoples' rights, official language and minority language educational rights, and multiculturalism", "The right to bear arms, to secede, to refuse jury duty and to avoid taxes", "The right to vote at 16, to a pension at 50, to free university and to a passport"],
+      "answer": 1,
+      "explanation": "The Charter sets out rights including Mobility Rights, Aboriginal Peoples' Rights, Official Language Rights and Minority Language Educational Rights, and Multiculturalism. The right to vote and the right to apply for a passport are also commonly cited.",
+      "ref": "Discover Canada, Rights and Responsibilities (p. 8)"
+    },
+    {
+      "id": "s20q12",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Name two Canadian symbols.",
+      "options": ["The eagle and the dollar", "The maple leaf and the beaver", "The lion and the rose", "The moose and the loonie"],
+      "answer": 1,
+      "explanation": "Important Canadian symbols include the Crown, the flag, the maple leaf, the fleur-de-lys, the coat of arms, the Parliament Buildings, the beaver, the RCMP, hockey and the Victoria Cross.",
+      "ref": "Discover Canada, Canadian Symbols (p. 38-41)"
+    },
+    {
+      "id": "s20q13",
+      "type": "mc",
+      "category": "Government",
+      "question": "In the territories, which official represents the federal government, and in the provinces which official represents the Sovereign?",
+      "options": ["Premier; Prime Minister", "Commissioner; Lieutenant Governor", "Lieutenant Governor; Commissioner", "Senator; Governor General"],
+      "answer": 1,
+      "explanation": "In the three territories the Commissioner represents the federal government and plays a ceremonial role. In each province the Lieutenant Governor represents the Sovereign.",
+      "ref": "Discover Canada, Constitutional Monarchy (p. 29)"
+    },
+    {
+      "id": "s20q14",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Put these events in the correct order: (1) Confederation, (2) Battle of the Plains of Abraham, (3) War of 1812, (4) Charter of Rights and Freedoms.",
+      "options": ["2, 3, 1, 4", "3, 2, 1, 4", "1, 2, 3, 4", "2, 1, 3, 4"],
+      "answer": 0,
+      "explanation": "Plains of Abraham (1759), War of 1812, Confederation (1867), Charter of Rights and Freedoms (1982).",
+      "ref": "Discover Canada, Canada's History (p. 14-19) and Rights (p. 8)"
+    },
+    {
+      "id": "s20q15",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Which of these events happened in 1982?",
+      "options": ["Quebec's first sovereignty referendum", "The Constitution was amended to entrench the Charter and July 1 became Canada Day", "Nunavut was created", "The current flag was adopted"],
+      "answer": 1,
+      "explanation": "In 1982 the Constitution was amended (without Quebec's agreement) to entrench the Charter of Rights and Freedoms, and Dominion Day became Canada Day. The referendum was 1980, the flag 1965, and Nunavut 1999.",
+      "ref": "Discover Canada, Rights (p. 8), Confederation (p. 18), Canada and Quebec (p. 24)"
+    },
+    {
+      "id": "s20q16",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: Because of the cold Arctic climate, there are no trees on the tundra and the soil is permanently frozen.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Much of the North is tundra, the vast rocky Arctic plain. Because of the cold climate there are no trees on the tundra and the soil is permanently frozen (permafrost).",
+      "ref": "Discover Canada, The Northern Territories (p. 50)"
+    },
+    {
+      "id": "s20q17",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: The Northwest Territories were originally made up in 1870 from Rupert's Land and the North-Western Territory.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The N.W.T. were originally made up in 1870 from Rupert's Land and the North-Western Territory, lands previously controlled by the Hudson's Bay Company.",
+      "ref": "Discover Canada, Northwest Territories (p. 50)"
+    },
+    {
+      "id": "s20q18",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: The Confederation Bridge joins New Brunswick and Prince Edward Island and is the longest bridge in the world over water that freezes in winter.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The Confederation Bridge, almost 13 kilometres long, joins New Brunswick and P.E.I. and is the longest bridge in the world to cross water that freezes in winter.",
+      "ref": "Discover Canada, Prince Edward Island (p. 46) and photo caption (p. 56)"
+    },
+    {
+      "id": "s20q19",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: Nunavut became a territory in 1999, while Newfoundland and Labrador joined Canada in 1949.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Newfoundland and Labrador joined in 1949 as the last province; Nunavut was established in 1999 as the newest territory.",
+      "ref": "Discover Canada, Expansion of the Dominion (p. 19)"
+    },
+    {
+      "id": "s20q20",
+      "type": "tf",
+      "category": "Canada's Regions",
+      "question": "True or false: The three territories contain one-third of Canada's land mass but have a population of only about 100,000.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. The Northwest Territories, Nunavut and Yukon contain one-third of Canada's land mass but have a population of only about 100,000. There are gold, lead, copper, diamond and zinc mines.",
+      "ref": "Discover Canada, The Northern Territories (p. 50)"
+    }
+  ]
+}

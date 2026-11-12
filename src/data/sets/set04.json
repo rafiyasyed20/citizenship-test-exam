@@ -1,0 +1,208 @@
+{
+  "id": "set04",
+  "title": "Explorers & New France",
+  "subtitle": "Aboriginal life, the Vikings, Cabot, Cartier, Champlain and the fur trade",
+  "topics": ["Vikings", "Cartier", "Champlain", "Fur trade", "Plains of Abraham"],
+  "questions": [
+    {
+      "id": "s04q01",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Why did the first European explorers call the native peoples \"Indians\"?",
+      "options": ["Because they spoke Hindi", "Because the explorers thought they had reached the East Indies", "Because they came from India", "Because the king ordered it"],
+      "answer": 1,
+      "explanation": "When Europeans explored Canada they found all regions occupied by native peoples they called Indians, because the first explorers thought they had reached the East Indies.",
+      "ref": "Discover Canada, Canada's History: Aboriginal Peoples (p. 14)"
+    },
+    {
+      "id": "s04q02",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which Aboriginal group was nomadic, following the bison (buffalo) herds?",
+      "options": ["The Huron-Wendat", "The Sioux", "The Inuit", "The Iroquois"],
+      "answer": 1,
+      "explanation": "The Sioux were nomadic, following the bison herd. The Huron-Wendat and Iroquois were farmers and hunters, the Cree and Dene were hunter-gatherers, and the Inuit lived off Arctic wildlife.",
+      "ref": "Discover Canada, Canada's History: Aboriginal Peoples (p. 14)"
+    },
+    {
+      "id": "s04q03",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "How did West Coast native peoples preserve fish?",
+      "options": ["By salting it in barrels", "By drying and smoking", "By freezing it in ice houses", "By pickling in vinegar"],
+      "answer": 1,
+      "explanation": "West Coast natives preserved fish by drying and smoking. Warfare was common among Aboriginal groups as they competed for land, resources and prestige.",
+      "ref": "Discover Canada, Canada's History: Aboriginal Peoples (p. 14)"
+    },
+    {
+      "id": "s04q04",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What happened to large numbers of Aboriginal people after Europeans arrived?",
+      "options": ["They migrated to Europe", "They died of European diseases to which they lacked immunity", "They moved entirely to the Arctic", "They became citizens of France"],
+      "answer": 1,
+      "explanation": "Large numbers of Aboriginals died of European diseases to which they lacked immunity. Still, Aboriginals and Europeans formed strong economic, religious and military bonds in the first 200 years of coexistence.",
+      "ref": "Discover Canada, Canada's History: Aboriginal Peoples (p. 14)"
+    },
+    {
+      "id": "s04q05",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who were the first Europeans to reach Labrador and Newfoundland, about 1,000 years ago?",
+      "options": ["The Portuguese", "The Vikings from Iceland", "The Spanish", "The Basques"],
+      "answer": 1,
+      "explanation": "The Vikings from Iceland who colonized Greenland 1,000 years ago also reached Labrador and the island of Newfoundland. The remains of their settlement, l'Anse aux Meadows, are a World Heritage site.",
+      "ref": "Discover Canada, The First Europeans (p. 14)"
+    },
+    {
+      "id": "s04q06",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What is l'Anse aux Meadows?",
+      "options": ["The first French fort at Québec City", "A Viking settlement in Newfoundland that is now a World Heritage site", "The site of the Battle of the Plains of Abraham", "A Hudson's Bay Company trading post"],
+      "answer": 1,
+      "explanation": "L'Anse aux Meadows holds the remains of the Viking settlement in Newfoundland and is a World Heritage site.",
+      "ref": "Discover Canada, The First Europeans (p. 14)"
+    },
+    {
+      "id": "s04q07",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who led the 1497 expedition that first mapped Canada's East Coast?",
+      "options": ["Jacques Cartier", "John Cabot", "Samuel de Champlain", "Martin Frobisher"],
+      "answer": 1,
+      "explanation": "European exploration began in earnest in 1497 with the expedition of John Cabot, an Italian immigrant to England, who was the first to draw a map of Canada's East Coast and claimed the New Founde Land for England.",
+      "ref": "Discover Canada, The First Europeans (p. 14)"
+    },
+    {
+      "id": "s04q08",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Between 1534 and 1542, Jacques Cartier made three voyages across the Atlantic, claiming the land for which king?",
+      "options": ["King Henry VIII of England", "King Francis I of France", "King Charles II of England", "King Louis XIV of France"],
+      "answer": 1,
+      "explanation": "Jacques Cartier made three voyages between 1534 and 1542, claiming the land for King Francis I of France. He was the first European to explore the St. Lawrence River.",
+      "ref": "Discover Canada, Exploring a River, Naming Canada (p. 14)"
+    },
+    {
+      "id": "s04q09",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "The name \"Canada\" comes from the Iroquoian word \"kanata.\" What does it mean?",
+      "options": ["River", "Village", "Big land", "Home"],
+      "answer": 1,
+      "explanation": "Cartier heard two captured guides speak the Iroquoian word kanata, meaning \"village.\" By the 1550s the name of Canada began appearing on maps.",
+      "ref": "Discover Canada, Exploring a River, Naming Canada (p. 14)"
+    },
+    {
+      "id": "s04q10",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1604, who established the first European settlement north of Florida?",
+      "options": ["John Cabot and Martin Frobisher", "Pierre de Monts and Samuel de Champlain", "Jacques Cartier and Jean Talon", "Count Frontenac and Bishop Laval"],
+      "answer": 1,
+      "explanation": "In 1604 French explorers Pierre de Monts and Samuel de Champlain established the first European settlement north of Florida, first on St. Croix Island (present-day Maine), then at Port-Royal in Acadia (present-day Nova Scotia).",
+      "ref": "Discover Canada, Royal New France (p. 15)"
+    },
+    {
+      "id": "s04q11",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1608, Champlain built a fortress at the site of which modern city?",
+      "options": ["Montreal", "Québec City", "Halifax", "Toronto"],
+      "answer": 1,
+      "explanation": "In 1608 Champlain built a fortress at what is now Québec City. The colonists struggled against a harsh climate.",
+      "ref": "Discover Canada, Royal New France (p. 15)"
+    },
+    {
+      "id": "s04q12",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Champlain allied the French colony with which First Nations, historic enemies of the Iroquois?",
+      "options": ["The Sioux, Cree and Dene", "The Algonquin, Montagnais and Huron", "The Mohawk and Shawnee", "The Haida and Salish"],
+      "answer": 1,
+      "explanation": "Champlain allied the colony with the Algonquin, Montagnais and Huron, historic enemies of the Iroquois, a confederation of five (later six) First Nations. The French and the Iroquois made peace in 1701.",
+      "ref": "Discover Canada, Royal New France (p. 15)"
+    },
+    {
+      "id": "s04q13",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What drove the vast fur-trade economy in which the French and Aboriginal people collaborated?",
+      "options": ["Demand for buffalo hides in Asia", "Demand for beaver pelts in Europe", "Demand for seal oil in Africa", "Demand for timber in Britain"],
+      "answer": 1,
+      "explanation": "The fur-trade economy was driven by the demand for beaver pelts in Europe. Leaders like Jean Talon, Bishop Laval and Count Frontenac built a French Empire that reached from Hudson Bay to the Gulf of Mexico.",
+      "ref": "Discover Canada, Royal New France (p. 15)"
+    },
+    {
+      "id": "s04q14",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1670, King Charles II of England granted exclusive trading rights over the Hudson Bay watershed to which company?",
+      "options": ["The North West Company", "The Hudson's Bay Company", "The Canadian Pacific Railway", "The East India Company"],
+      "answer": 1,
+      "explanation": "In 1670 King Charles II granted the Hudson's Bay Company exclusive trading rights over the watershed draining into Hudson Bay. For the next 100 years it competed with Montreal-based traders.",
+      "ref": "Discover Canada, Struggle for a Continent (p. 15)"
+    },
+    {
+      "id": "s04q15",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What were the skilled and courageous men who travelled by canoe in the fur trade called?",
+      "options": ["Habitants and Canadiens", "Voyageurs and coureurs des bois", "Loyalists and Patriotes", "Rangers and Mounties"],
+      "answer": 1,
+      "explanation": "The men who travelled by canoe were called voyageurs and coureurs des bois, and they formed strong alliances with First Nations.",
+      "ref": "Discover Canada, Struggle for a Continent (p. 15)"
+    },
+    {
+      "id": "s04q16",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which 1759 battle marked the end of France's empire in America?",
+      "options": ["The Battle of Queenston Heights", "The Battle of the Plains of Abraham at Québec City", "The Battle of Châteauguay", "The Battle of Vimy Ridge"],
+      "answer": 1,
+      "explanation": "In 1759 the British defeated the French in the Battle of the Plains of Abraham at Québec City, marking the end of France's empire in America. Both commanders, Brigadier James Wolfe and the Marquis de Montcalm, were killed.",
+      "ref": "Discover Canada, Struggle for a Continent (p. 15)"
+    },
+    {
+      "id": "s04q17",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who were the two commanders killed at the Battle of the Plains of Abraham?",
+      "options": ["Brock and Tecumseh", "Wolfe and Montcalm", "Carleton and Frontenac", "Cartier and Champlain"],
+      "answer": 1,
+      "explanation": "Brigadier James Wolfe (British) and the Marquis de Montcalm (French) were both killed leading their troops in the 1759 battle.",
+      "ref": "Discover Canada, Struggle for a Continent (p. 15)"
+    },
+    {
+      "id": "s04q18",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: Count Frontenac surrendered Quebec to the English in 1690.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Count Frontenac refused to surrender Quebec to the English in 1690, saying: \"My only reply will be from the mouths of my cannons!\"",
+      "ref": "Discover Canada, Canada's History (p. 15)"
+    },
+    {
+      "id": "s04q19",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: English settlement in Newfoundland began in 1497 when John Cabot landed.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. Cabot claimed the land in 1497, but English settlement did not begin until 1610.",
+      "ref": "Discover Canada, The First Europeans (p. 14)"
+    },
+    {
+      "id": "s04q20",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: Pierre Le Moyne, Sieur d'Iberville, was a hero of New France who won many victories over the English.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Pierre Le Moyne, Sieur d'Iberville, was a great hero of New France, winning many victories over the English from James Bay in the north to Nevis in the Caribbean.",
+      "ref": "Discover Canada, Canada's History (p. 15)"
+    }
+  ]
+}

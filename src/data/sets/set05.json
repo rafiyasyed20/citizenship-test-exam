@@ -1,0 +1,208 @@
+{
+  "id": "set05",
+  "title": "Loyalists & the War of 1812",
+  "subtitle": "The Quebec Act, United Empire Loyalists, the War of 1812 and early democracy",
+  "topics": ["Quebec Act", "Loyalists", "War of 1812", "Slavery"],
+  "questions": [
+    {
+      "id": "s05q01",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "After the British conquest, what were the French-speaking Catholic people of the Province of Quebec known as?",
+      "options": ["Acadians", "Habitants or Canadiens", "Loyalists", "Métis"],
+      "answer": 1,
+      "explanation": "Great Britain renamed the colony the Province of Quebec. The French-speaking Catholic people, known as habitants or Canadiens, strove to preserve their way of life in the Protestant-ruled British Empire.",
+      "ref": "Discover Canada, The Province of Quebec (p. 15)"
+    },
+    {
+      "id": "s05q02",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What did the Quebec Act of 1774 do?",
+      "options": ["Abolished slavery in Quebec", "Allowed religious freedom for Catholics, let them hold public office, and restored French civil law", "Created the province of Ontario", "Gave women the right to vote"],
+      "answer": 1,
+      "explanation": "The Quebec Act of 1774 allowed religious freedom for Catholics and permitted them to hold public office, a practice not then allowed in Britain. It restored French civil law while maintaining British criminal law.",
+      "ref": "Discover Canada, A Tradition of Accommodation (p. 15)"
+    },
+    {
+      "id": "s05q03",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who were the United Empire Loyalists?",
+      "options": ["French settlers loyal to King Louis", "People loyal to the Crown who fled the American Revolution to settle in Nova Scotia and Quebec", "British soldiers who fought at the Plains of Abraham", "Members of the Hudson's Bay Company"],
+      "answer": 1,
+      "explanation": "In 1776 the 13 British colonies declared independence. More than 40,000 people loyal to the Crown, called Loyalists, fled the oppression of the American Revolution to settle in Nova Scotia and Quebec.",
+      "ref": "Discover Canada, United Empire Loyalists (p. 15)"
+    },
+    {
+      "id": "s05q04",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who led thousands of Loyalist Mohawk Indians into Canada?",
+      "options": ["Tecumseh", "Joseph Brant", "Louis Riel", "Gabriel Dumont"],
+      "answer": 1,
+      "explanation": "Joseph Brant led thousands of Loyalist Mohawk Indians into Canada. Loyalists came from Dutch, German, British, Scandinavian, Aboriginal and other origins and many religious backgrounds.",
+      "ref": "Discover Canada, United Empire Loyalists (p. 15)"
+    },
+    {
+      "id": "s05q05",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1792, some black Nova Scotians who had been given poor land moved on to establish which new British colony for freed slaves?",
+      "options": ["Freetown, Sierra Leone", "Monrovia, Liberia", "Kingston, Jamaica", "Cape Town, South Africa"],
+      "answer": 0,
+      "explanation": "About 3,000 black Loyalists came north seeking a better life. In 1792 some black Nova Scotians, who were given poor land, moved on to establish Freetown, Sierra Leone, a new British colony for freed slaves.",
+      "ref": "Discover Canada, United Empire Loyalists (p. 15)"
+    },
+    {
+      "id": "s05q06",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Where was the first representative assembly in what is now Canada elected, and when?",
+      "options": ["Québec City, 1608", "Halifax, Nova Scotia, 1758", "Toronto, 1793", "Charlottetown, 1864"],
+      "answer": 1,
+      "explanation": "The first representative assembly was elected in Halifax, Nova Scotia, in 1758. Prince Edward Island followed in 1773 and New Brunswick in 1785.",
+      "ref": "Discover Canada, The Beginnings of Democracy (p. 16)"
+    },
+    {
+      "id": "s05q07",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "The Constitutional Act of 1791 divided the Province of Quebec into which two parts?",
+      "options": ["Nova Scotia and New Brunswick", "Upper Canada (later Ontario) and Lower Canada (later Quebec)", "Canada East and Canada West", "Rupert's Land and the North-Western Territory"],
+      "answer": 1,
+      "explanation": "The Constitutional Act of 1791 divided the Province of Quebec into Upper Canada (later Ontario), mainly Loyalist, Protestant and English-speaking, and Lower Canada (later Quebec), heavily Catholic and French-speaking.",
+      "ref": "Discover Canada, The Beginnings of Democracy (p. 16)"
+    },
+    {
+      "id": "s05q08",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What did the Constitutional Act of 1791 grant to the Canadas for the first time?",
+      "options": ["Responsible government", "Legislative assemblies elected by the people", "Free trade with the United States", "An official flag"],
+      "answer": 1,
+      "explanation": "The Act granted to the Canadas, for the first time, legislative assemblies elected by the people. The name Canada also became official at this time. The Atlantic colonies and the two Canadas were known collectively as British North America.",
+      "ref": "Discover Canada, The Beginnings of Democracy (p. 16)"
+    },
+    {
+      "id": "s05q09",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who was Upper Canada's first Lieutenant Governor and founder of the City of York (now Toronto)?",
+      "options": ["Sir Guy Carleton", "John Graves Simcoe", "Sir Isaac Brock", "Lord Durham"],
+      "answer": 1,
+      "explanation": "Lieutenant-Colonel John Graves Simcoe was Upper Canada's first Lieutenant Governor and founder of the City of York (now Toronto). He also made Upper Canada the first province in the British Empire to move toward abolishing slavery, in 1793.",
+      "ref": "Discover Canada, Abolition of Slavery (p. 16)"
+    },
+    {
+      "id": "s05q10",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In what year did the British Parliament abolish slavery throughout the Empire?",
+      "options": ["1793", "1807", "1833", "1863"],
+      "answer": 2,
+      "explanation": "In 1807 the British Parliament prohibited the buying and selling of slaves, and in 1833 it abolished slavery throughout the Empire. Thousands of slaves escaped from the United States to Canada via the Underground Railroad.",
+      "ref": "Discover Canada, Abolition of Slavery (p. 16)"
+    },
+    {
+      "id": "s05q11",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "What was the Underground Railroad?",
+      "options": ["Canada's first subway, built in Montreal", "A Christian anti-slavery network that helped slaves escape from the United States to Canada", "A secret tunnel under the Rideau Canal", "The first transcontinental railway"],
+      "answer": 1,
+      "explanation": "Thousands of slaves escaped from the United States, followed \"the North Star\" and settled in Canada via the Underground Railroad, a Christian anti-slavery network.",
+      "ref": "Discover Canada, Abolition of Slavery (p. 16)"
+    },
+    {
+      "id": "s05q12",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Who became the first woman publisher in Canada in 1853, helping to found the anti-slavery newspaper The Provincial Freeman?",
+      "options": ["Laura Secord", "Mary Ann Shadd Cary", "Emily Stowe", "Agnes Macphail"],
+      "answer": 1,
+      "explanation": "Mary Ann Shadd Cary, an outspoken activist against slavery in the U.S.A., became the first woman publisher in Canada in 1853, helping to found and edit The Provincial Freeman.",
+      "ref": "Discover Canada, Canada's History (p. 16)"
+    },
+    {
+      "id": "s05q13",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Why did the United States invade Canada in June 1812?",
+      "options": ["To free the slaves in Canada", "Out of resentment at British interference with their shipping, believing Canada would be easy to conquer", "To help the French recapture Quebec", "To claim the fur trade"],
+      "answer": 1,
+      "explanation": "British efforts to resist Napoleon led to American resentment at British interference with their shipping. Believing it would be easy to conquer Canada, the United States launched an invasion in June 1812. The Americans were mistaken.",
+      "ref": "Discover Canada, The War of 1812 (p. 16)"
+    },
+    {
+      "id": "s05q14",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Which Shawnee chief led First Nations in support of the British during the War of 1812?",
+      "options": ["Joseph Brant", "Tecumseh", "Sitting Bull", "Big Bear"],
+      "answer": 1,
+      "explanation": "Canadian volunteers and First Nations, including Shawnee led by Chief Tecumseh, supported British soldiers in Canada's defence.",
+      "ref": "Discover Canada, The War of 1812 (p. 16)"
+    },
+    {
+      "id": "s05q15",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "Major-General Sir Isaac Brock captured Detroit but was killed defending against an American attack at which battle?",
+      "options": ["Châteauguay", "Queenston Heights, near Niagara Falls", "Beaver Dams", "Lundy's Lane"],
+      "answer": 1,
+      "explanation": "In July 1812 Brock captured Detroit but was killed while defending against an American attack at Queenston Heights, near Niagara Falls, a battle the Americans lost.",
+      "ref": "Discover Canada, The War of 1812 (p. 16)"
+    },
+    {
+      "id": "s05q16",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1813, Lieutenant-Colonel Charles de Salaberry and 460 soldiers, mostly French Canadiens, turned back 4,000 American invaders at which place?",
+      "options": ["Châteauguay, south of Montreal", "York (Toronto)", "Halifax", "Kingston"],
+      "answer": 0,
+      "explanation": "In 1813 de Salaberry and 460 soldiers, mostly French Canadiens, turned back 4,000 American invaders at Châteauguay, south of Montreal.",
+      "ref": "Discover Canada, The War of 1812 (p. 16)"
+    },
+    {
+      "id": "s05q17",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "In 1813, Laura Secord made a dangerous 30-km journey on foot to warn of a planned American attack. Which battle did her bravery help win?",
+      "options": ["The Battle of Beaver Dams", "The Battle of Queenston Heights", "The Battle of Trafalgar", "The Battle of Amiens"],
+      "answer": 0,
+      "explanation": "Laura Secord, pioneer wife and mother of five, walked 19 miles (30 km) to warn Lieutenant James FitzGibbon of a planned American attack. Her bravery contributed to victory at the Battle of Beaver Dams.",
+      "ref": "Discover Canada, Canada's History (p. 17)"
+    },
+    {
+      "id": "s05q18",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: In 1814, Major-General Robert Ross led an expedition from Nova Scotia that burned down the White House in Washington, D.C.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. In retaliation for the Americans burning Government House and the Parliament Buildings in York (Toronto) in 1813, Ross led an expedition in 1814 that burned down the White House and other public buildings. He was later buried in Halifax.",
+      "ref": "Discover Canada, The War of 1812 (p. 16)"
+    },
+    {
+      "id": "s05q19",
+      "type": "tf",
+      "category": "Canada's History",
+      "question": "True or false: The present-day Canada-U.S.A. border is partly an outcome of the War of 1812.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. By 1814 the American attempt to conquer Canada had failed. The present-day border is partly an outcome of the war, which ensured that Canada would remain independent of the United States.",
+      "ref": "Discover Canada, Canada's History (p. 17)"
+    },
+    {
+      "id": "s05q20",
+      "type": "mc",
+      "category": "Canada's History",
+      "question": "The Duke of Wellington chose Bytown as the endpoint of the Rideau Canal, part of a network of forts against American invasion. What is Bytown called today?",
+      "options": ["Kingston", "Ottawa", "Montreal", "Toronto"],
+      "answer": 1,
+      "explanation": "Wellington chose Bytown (Ottawa) as the endpoint of the Rideau Canal, so the man who defeated Napoleon in 1815 played a direct role in founding the national capital.",
+      "ref": "Discover Canada, Canada's History (p. 17)"
+    }
+  ]
+}

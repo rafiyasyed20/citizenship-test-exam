@@ -1,0 +1,208 @@
+{
+  "id": "set09",
+  "title": "Modern Canada",
+  "subtitle": "Postwar prosperity, social programs, the Cold War, Quebec and a changing society",
+  "topics": ["Economy", "NATO & UN", "Quiet Revolution", "Refugees"],
+  "questions": [
+    {
+      "id": "s09q01",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "The discovery of oil in which province in 1947 began Canada's modern energy industry?",
+      "options": ["Saskatchewan", "Alberta", "Newfoundland and Labrador", "British Columbia"],
+      "answer": 1,
+      "explanation": "The discovery of oil in Alberta in 1947 began Canada's modern energy industry. Alberta is today the largest producer of oil and gas.",
+      "ref": "Discover Canada, Trade and Economic Growth (p. 24)"
+    },
+    {
+      "id": "s09q02",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "In what year, for the first time, were a majority of Canadians able to afford adequate food, shelter and clothing?",
+      "options": ["1929", "1945", "1951", "1967"],
+      "answer": 2,
+      "explanation": "In 1951, for the first time, a majority of Canadians were able to afford adequate food, shelter and clothing. Between 1945 and 1970 Canada enjoyed one of the strongest economies among industrialized nations.",
+      "ref": "Discover Canada, Trade and Economic Growth (p. 24)"
+    },
+    {
+      "id": "s09q03",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Which act ensures common elements and a basic standard of health coverage across Canada?",
+      "options": ["The Canada Health Act", "The Official Languages Act", "The Citizenship Act", "The Constitution Act"],
+      "answer": 0,
+      "explanation": "The Canada Health Act ensures common elements and a basic standard of coverage. Publicly funded education is provided by the provinces and territories.",
+      "ref": "Discover Canada, Trade and Economic Growth (p. 24)"
+    },
+    {
+      "id": "s09q04",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "When was unemployment insurance (now called employment insurance) introduced by the federal government?",
+      "options": ["1927", "1934", "1940", "1965"],
+      "answer": 2,
+      "explanation": "Unemployment insurance, now employment insurance, was introduced in 1940. Old Age Security was devised as early as 1927, and the Canada and Quebec Pension Plans in 1965.",
+      "ref": "Discover Canada, Trade and Economic Growth (p. 24)"
+    },
+    {
+      "id": "s09q05",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "In which year were the Canada and Quebec Pension Plans created?",
+      "options": ["1927", "1940", "1965", "1982"],
+      "answer": 2,
+      "explanation": "The Canada and Quebec Pension Plans were created in 1965.",
+      "ref": "Discover Canada, Trade and Economic Growth (p. 24)"
+    },
+    {
+      "id": "s09q06",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "During the Cold War, Canada joined which military alliance with other democratic countries of the West?",
+      "options": ["The Warsaw Pact", "The North Atlantic Treaty Organization (NATO)", "La Francophonie", "The G8"],
+      "answer": 1,
+      "explanation": "Canada joined with other democratic countries of the West to form NATO, a military alliance, and with the United States in the North American Aerospace Defence Command (NORAD).",
+      "ref": "Discover Canada, International Engagement (p. 24)"
+    },
+    {
+      "id": "s09q07",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "What is NORAD?",
+      "options": ["A trade agreement with Mexico", "The North American Aerospace Defence Command, a joint Canada–U.S. defence organization", "A UN peacekeeping mission", "Canada's northern research agency"],
+      "answer": 1,
+      "explanation": "NORAD is the North American Aerospace Defence Command, formed by Canada with the United States during the Cold War.",
+      "ref": "Discover Canada, International Engagement (p. 24)"
+    },
+    {
+      "id": "s09q08",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Canada took part in the UN operation defending South Korea in the Korean War. What were the years of that war?",
+      "options": ["1939–45", "1950–53", "1965–75", "1990–91"],
+      "answer": 1,
+      "explanation": "Canada participated in the UN operation defending South Korea in the Korean War (1950–53), with 500 dead and 1,000 wounded.",
+      "ref": "Discover Canada, International Engagement (p. 24)"
+    },
+    {
+      "id": "s09q09",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "The era of rapid change in Quebec during the 1960s is known as what?",
+      "options": ["The Great Upheaval", "The Quiet Revolution", "The October Crisis", "The Roaring Sixties"],
+      "answer": 1,
+      "explanation": "Quebec experienced an era of rapid change in the 1960s known as the Quiet Revolution. Many Quebecers sought to separate from Canada.",
+      "ref": "Discover Canada, Canada and Quebec (p. 24)"
+    },
+    {
+      "id": "s09q10",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "What does the Official Languages Act of 1969 guarantee?",
+      "options": ["That every province is bilingual", "French and English services in the federal government across Canada", "That all schools teach in French", "That French is the only language of Quebec"],
+      "answer": 1,
+      "explanation": "The Royal Commission on Bilingualism and Biculturalism (1963) led to the Official Languages Act (1969), which guarantees French and English services in the federal government across Canada.",
+      "ref": "Discover Canada, Canada and Quebec (p. 24)"
+    },
+    {
+      "id": "s09q11",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "In 1970, Canada helped found which international association?",
+      "options": ["The Commonwealth", "La Francophonie, an association of French-speaking countries", "The World Trade Organization", "The European Union"],
+      "answer": 1,
+      "explanation": "In 1970 Canada helped found La Francophonie, an international association of French-speaking countries.",
+      "ref": "Discover Canada, Canada and Quebec (p. 24)"
+    },
+    {
+      "id": "s09q12",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "In which years was Quebec sovereignty defeated in provincial referendums?",
+      "options": ["1960 and 1970", "1980 and 1995", "1982 and 1992", "1987 and 2006"],
+      "answer": 1,
+      "explanation": "The sovereignty movement was defeated in a referendum in 1980, and again in a second referendum in 1995. In 1982 the Constitution was amended without the agreement of Quebec.",
+      "ref": "Discover Canada, Canada and Quebec (p. 24)"
+    },
+    {
+      "id": "s09q13",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "In what year did Aboriginal people gain the right to vote in Canada?",
+      "options": ["1918", "1948", "1960", "1982"],
+      "answer": 2,
+      "explanation": "Aboriginal people were granted the vote in 1960. Japanese Canadians, the last Canadians of Asian descent to be denied the vote, gained it in 1948. Today every citizen over 18 may vote.",
+      "ref": "Discover Canada, A Changing Society (p. 25)"
+    },
+    {
+      "id": "s09q14",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "About 37,000 refugees who escaped Soviet tyranny in 1956 came from which country?",
+      "options": ["Poland", "Hungary", "Czechoslovakia", "Vietnam"],
+      "answer": 1,
+      "explanation": "Canada welcomed about 37,000 refugees who escaped Soviet tyranny in Hungary in 1956. After the Communist victory in Vietnam in 1975, over 50,000 Vietnamese sought refuge in Canada.",
+      "ref": "Discover Canada, A Changing Society (p. 25)"
+    },
+    {
+      "id": "s09q15",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "By the 1960s, what fraction of Canadians had origins that were neither British nor French?",
+      "options": ["One-tenth", "One-quarter", "One-third", "One-half"],
+      "answer": 2,
+      "explanation": "By the 1960s, one-third of Canadians had origins that were neither British nor French, and took pride in preserving their distinct culture, giving multiculturalism new impetus.",
+      "ref": "Discover Canada, A Changing Society (p. 25)"
+    },
+    {
+      "id": "s09q16",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Which international trade agreement, now the World Trade Organization, opened up the restrictive trading policies of the Depression era?",
+      "options": ["NAFTA", "The General Agreement on Tariffs and Trade (GATT)", "The Auto Pact", "The Commonwealth Preference"],
+      "answer": 1,
+      "explanation": "Restrictive trading policies were opened up by treaties such as the General Agreement on Tariffs and Trade (GATT), now the World Trade Organization (WTO).",
+      "ref": "Discover Canada, Trade and Economic Growth (p. 24)"
+    },
+    {
+      "id": "s09q17",
+      "type": "tf",
+      "category": "Modern Canada",
+      "question": "True or false: The 1982 amendment of the Constitution was made with the agreement of Quebec.",
+      "options": ["True", "False"],
+      "answer": 1,
+      "explanation": "False. After much negotiation, in 1982 the Constitution was amended without the agreement of Quebec. The autonomy of Quebec within Canada remains a lively topic.",
+      "ref": "Discover Canada, Canada and Quebec (p. 24)"
+    },
+    {
+      "id": "s09q18",
+      "type": "tf",
+      "category": "Modern Canada",
+      "question": "True or false: Canada has taken part in UN peacekeeping missions in places such as Egypt, Cyprus and Haiti.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Canada has taken part in numerous UN peacekeeping missions in places as varied as Egypt, Cyprus and Haiti, as well as other security operations in the former Yugoslavia and Afghanistan.",
+      "ref": "Discover Canada, International Engagement (p. 24)"
+    },
+    {
+      "id": "s09q19",
+      "type": "tf",
+      "category": "Modern Canada",
+      "question": "True or false: Japanese Canadians gained the right to vote in 1948.",
+      "options": ["True", "False"],
+      "answer": 0,
+      "explanation": "True. Most Canadians of Asian descent had been denied the vote; in 1948 the last of these, the Japanese Canadians, gained the right to vote.",
+      "ref": "Discover Canada, A Changing Society (p. 25)"
+    },
+    {
+      "id": "s09q20",
+      "type": "mc",
+      "category": "Modern Canada",
+      "question": "Who was the dictator of the Soviet Union when the Cold War began, according to the guide?",
+      "options": ["Vladimir Lenin", "Josef Stalin", "Nikita Khrushchev", "Leon Trotsky"],
+      "answer": 1,
+      "explanation": "The Cold War began when several liberated countries of eastern Europe became part of a Communist bloc controlled by the Soviet Union under the dictator Josef Stalin.",
+      "ref": "Discover Canada, International Engagement (p. 24)"
+    }
+  ]
+}
